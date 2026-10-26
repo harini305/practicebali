@@ -1,0 +1,202 @@
+/* Full-screen photo, dark gradient for the copy, quick-route bar along the bottom */
+.hero {
+  isolation: isolate;
+  color: var(--paper);
+  background: var(--brown-deep);
+}
+
+.photo {
+  position: absolute;
+  inset: 0;
+  z-index: -2;
+  background: #efe3d6;
+}
+
+.photo img {
+  object-position: 80% 35%;
+}
+
+.shade {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background:
+    linear-gradient(90deg, rgba(40, 33, 27, 0.94) 0%, rgba(40, 33, 27, 0.82) 30%, rgba(40, 33, 27, 0.25) 55%, transparent 70%),
+    linear-gradient(0deg, rgba(40, 33, 27, 0.85) 0%, transparent 28%);
+}
+
+.content {
+  flex: 1 1 auto;
+  display: flex;
+  align-items: center;
+  padding: var(--panel-y) var(--gutter);
+}
+
+.copy {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: min(36rem, 46vw);
+}
+
+
+
+.copy h1 {
+  color: var(--paper);
+  font-size: clamp(2.75rem, 1.4rem + 4.4vw, 6.5rem);
+  line-height: 0.95;
+  letter-spacing: -0.03em;
+}
+
+.copy h1 span {
+  display: block;
+  color: var(--sand);
+}
+
+.lead {
+  max-width: 30rem;
+  margin-block: clamp(1rem, 3vh, 1.75rem) clamp(1.25rem, 4vh, 2.25rem);
+  color: rgba(246, 241, 234, 0.88);
+  font-size: var(--fs-lead);
+  line-height: 1.5;
+}
+
+.lead em {
+  display: block;
+  margin-top: 0.5rem;
+  color: var(--paper);
+  font-family: var(--font-head);
+  font-size: 1.2em;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.ghost {
+  background: transparent;
+  border-color: rgba(246, 241, 234, 0.65);
+  color: var(--paper);
+}
+
+.ghost:hover {
+  background: var(--paper);
+  border-color: var(--paper);
+  color: var(--brown);
+}
+
+.hero :focus-visible {
+  outline-color: var(--paper);
+}
+
+/* Quick routes */
+.routes {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  border-top: 1px solid rgba(246, 241, 234, 0.22);
+  background: rgba(40, 33, 27, 0.6);
+}
+
+.route {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  padding: clamp(0.9rem, 2.5vh, 1.5rem) 2.75rem clamp(0.9rem, 2.5vh, 1.5rem) var(--gutter);
+  border-left: 1px solid rgba(246, 241, 234, 0.18);
+  color: var(--paper);
+  text-decoration: none;
+  transition: background-color 0.25s ease;
+}
+
+.route:first-child {
+  border-left: 0;
+}
+
+.route:hover {
+  background: rgba(174, 134, 86, 0.35);
+}
+
+.routeLabel {
+  font-family: var(--font-head);
+  font-size: clamp(1.125rem, 0.95rem + 0.6vw, 1.5rem);
+  font-weight: 600;
+  line-height: 1.15;
+}
+
+.routeNote {
+  color: rgba(246, 241, 234, 0.75);
+  font-size: var(--fs-meta);
+}
+
+.routeGo {
+  position: absolute;
+  right: 1.25rem;
+  top: 50%;
+  margin-top: -0.7em;
+  color: var(--sand);
+  font-size: 1.25rem;
+}
+
+.routeGo::after {
+  margin-left: 0;
+}
+
+/* Phones & tablets: photo band on top, copy on solid dark below (never over faces) */
+@media (max-width: 899px) {
+  .photo {
+    position: relative;
+    inset: auto;
+    z-index: auto;
+    flex: 1 1 auto;
+    min-height: 22svh;
+  }
+
+  .photo img {
+    object-position: 76% 30%;
+  }
+
+  .shade {
+    display: none;
+  }
+
+  .content {
+    flex: 0 0 auto;
+    padding-block: 1.1rem 1rem;
+  }
+
+  .copy {
+    max-width: 34rem;
+  }
+
+
+  .lead {
+    margin-block: 0.75rem 1rem;
+    font-size: var(--fs-body);
+  }
+
+  .routes {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .route {
+    padding: 0.7rem 2.25rem 0.7rem var(--gutter);
+  }
+
+  .route:nth-child(3) {
+    border-left: 0;
+  }
+
+  .route:nth-child(n + 3) {
+    border-top: 1px solid rgba(246, 241, 234, 0.18);
+  }
+
+  .routeGo {
+    right: 0.75rem;
+  }
+}
+
+@media (max-width: 899px) and (max-height: 780px) {
+  .routeNote {
+    display: none;
+  }
+
+}

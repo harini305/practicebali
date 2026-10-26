@@ -1,0 +1,33 @@
+.head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 0.75rem var(--gap-lg);
+  margin-bottom: var(--head-gap);
+}
+
+.text {
+  flex: 1 1 32rem;
+  max-width: 46rem;
+}
+
+.intro {
+  margin-top: 0.5rem;
+  max-width: 40rem;
+  color: var(--ink-soft);
+  font-size: var(--fs-body);
+  line-height: 1.55;
+}
+
+.aside {
+  flex: 0 1 auto;
+}
+
+.light h2 {
+  color: var(--paper);
+}
+
+.light .intro {
+  color: rgba(246, 241, 234, 0.82);
+}

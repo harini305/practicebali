@@ -1,0 +1,5888 @@
+{
+ "affiliate-program": {
+  "meta": {
+   "title": "Affiliate – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/affiliate-program/",
+   "jsonld": 0
+  },
+  "words": 135,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/10/online-training-new.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/12/home-study.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "300",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/10/Yoga-Sutra.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "300",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/10/50hr-hatha.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "300",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/10/Kundalini.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "300",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/10/YDIG.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "300",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/06/immune-repair.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "300",
+    "link": null
+   }
+  ],
+  "iframes": [
+   "https://www.youtube.com/embed/1JXTWBUmQHU?feature=oembed&rel=0&controls=1&showinfo=0&modestbranding=1&enablejsapi=1&"
+  ],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2021/10/Affiliate-The-Practice.pdf",
+    "PDF",
+    ""
+   ],
+   [
+    "mailto:manager@thepracticebali.com",
+    "manager@thepracticebali.com",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2022/12/Home-Study-Assets.zip",
+    "SOCIAL MEDIA IMAGES",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2022/12/Home-Study-Key-Messages.pdf",
+    "KEY MESSAGES",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2022/12/Home-Study-Social-Media-Text.pdf",
+    "SOCIAL MEDIA POST TEMPLATE ",
+    ""
+   ],
+   [
+    "https://www.youtube.com/watch?v=9_PlcjYc6iM",
+    "VIDEO YOUTUBE LINK",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2021/10/Yoga-Sutra-Social-Assets.zip",
+    "SOCIAL MEDIA IMAGES",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2021/10/Yoga-Sutra-Key-Messages.pdf",
+    "KEY MESSAGES",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2021/10/Yoga-Sutra-Social-Media-Text.pdf",
+    "SOCIAL MEDIA POST TEMPLATE ",
+    ""
+   ],
+   [
+    "https://www.youtube.com/watch?v=OernHZ3b_Ks",
+    "VIDEO YOUTUBE LINK",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2021/10/50Hr-Key-Messages.pdf",
+    "SOCIAL MEDIA IMAGES",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2021/10/50Hr-Key-Messages.pdf",
+    "KEY MESSAGES",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2021/10/50Hr-Social-Media-Text.pdf",
+    "SOCIAL MEDIA POST TEMPLATE",
+    ""
+   ],
+   [
+    "https://www.youtube.com/watch?v=mhVM6sW6yAE",
+    "VIDEO YOUTUBE LINK",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2021/10/Kundalini-Social-Assets.zip",
+    "SOCIAL MEDIA IMAGES",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2021/10/Kundalini-Key-Messages.pdf",
+    "KEY MESSAGES",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2021/10/Kundalini-Social-Media-Text.pdf",
+    "SOCIAL MEDIA POST TEMPLATE",
+    ""
+   ],
+   [
+    "https://www.youtube.com/watch?v=VC7JIZuQyyI",
+    "VIDEO YOUTUBE LINK",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2021/10/YDIG-Social-Assets.zip",
+    "SOCIAL MEDIA IMAGES",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2021/10/YDIG-Key-Messages.pdf",
+    "KEY MESSAGES",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2021/10/YDIG-Social-Media-Text.pdf",
+    "SOCIAL MEDIA POST TEMPLATE",
+    ""
+   ],
+   [
+    "https://www.youtube.com/watch?v=blu8h-0MC7E",
+    "VIDEO YOUTUBE LINK",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2022/06/Immune-Repair-Assets.zip",
+    "SOCIAL MEDIA IMAGES",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2022/06/Immune-Repair-Key-Messages.pdf",
+    "KEY MESSAGES",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2022/06/Immune-Repair-Social-Media-Text.pdf",
+    "SOCIAL MEDIA POST TEMPLATE",
+    ""
+   ],
+   [
+    "https://www.youtube.com/watch?v=X6OaFT7nxsA",
+    "VIDEO YOUTUBE LINK",
+    ""
+   ]
+  ]
+ },
+ "all-events": {
+  "meta": {
+   "title": "Events",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": null,
+   "jsonld": 26
+  },
+  "words": 679,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2023/05/tp_logo_new.png",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": "https://www.thepracticebali.com/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2023/05/tp_logo_new.png",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": "https://www.thepracticebali.com/"
+   }
+  ],
+  "iframes": [],
+  "forms": [
+   {
+    "action": "https://www.thepracticebali.com/",
+    "fields": [
+     {
+      "tag": "input",
+      "type": "search",
+      "name": "s",
+      "placeholder": "Search …",
+      "required": false
+     },
+     {
+      "tag": "input",
+      "type": "submit",
+      "name": null,
+      "placeholder": null,
+      "required": false
+     }
+    ]
+   }
+  ],
+  "links": [
+   [
+    "#site-content",
+    "Skip to the content",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/",
+    "",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "Schedule",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/",
+    "",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/contact/",
+    "Contact",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/",
+    "JOIN TPOpro NOW",
+    "_blank"
+   ],
+   [
+    "https://www.thepracticebali.com/contact/",
+    "Contact",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/",
+    "Home",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/contact/",
+    "Contact",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "Schedule",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/?page_id=9",
+    "Blog",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/affiliate-program/",
+    "Affiliate",
+    ""
+   ],
+   [
+    "https://www.instagram.com/thepractice.official/",
+    "Instagram",
+    "_blank"
+   ],
+   [
+    "https://www.youtube.com/c/ThePracticeYoga",
+    "YouTube",
+    "_blank"
+   ],
+   [
+    "https://mewe.com/p/thepractice1",
+    "MeWe",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/",
+    "JOIN TPOpro NOW",
+    "_blank"
+   ],
+   [
+    "#",
+    " September",
+    ""
+   ],
+   [
+    "#",
+    "November ",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90-min-jodie-3/",
+    "3pm Yin Yoga (Level 1, 90 Min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-lala-2/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-yang-to-yin-level-1-75min-jodie/",
+    "10am Yang to Yin (Level 1, 75min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-852hz-meditation-to-activate-the-3rd-eye-level-1-1hr-150k-octavio/",
+    "1130am 852Hz Meditation to activate the 3rd Eye (Level 1, 60min) (150k) – Octavio ",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-beginners-hatha-yoga-90min-ela/",
+    "3pm Beginners Hatha Yoga (90min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-ela-5/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-moon-level-2-75min-lala-3/",
+    "10am Hatha Yoga Moon (Level 2, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-75-min-lala/",
+    "1130am Beginners Hatha Yoga (75 Min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-2hr-200k-jason/",
+    "3pm Yin Yoga (Level 1, 2hr) (200K) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-2-75min-jason/",
+    "830am Hatha Yoga Sun  (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-yang-to-yin-level-1-75min-ela/",
+    "10am Yang to Yin (Level 1, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-528hz-meditation-for-dna-repair-physical-healing-level-1-1hr-150k-octavio/",
+    "1130am 528Hz Meditation for DNA repair & physical healing (Level 1, 60min) (150k) – Octavio",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-hatha-yoga-moon-level-1-90min-ela-5/",
+    "3pm Hatha Yoga Moon (Level 1, 90min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-moon-level-2-75min-jodie-4/",
+    "830am Hatha Yoga Moon  (Level 2, 75min) –Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-sun-level-2-75min-jason-4/",
+    "10am Hatha Yoga Sun  (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-90min-jason-3/",
+    "1130am Beginners Hatha Yoga (90min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90min-jodie-5/",
+    "3pm Yin Yoga ( Level 1, 90min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-7pm-2-day-workshop-introduction-to-kriya-meditation-octavio/",
+    "830am – 7pm 2-Day Workshop: Introduction to Kriya Meditation – Octavio",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-2-75min-jason-2/",
+    "830am Hatha Yoga Sun (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-beginners-hatha-yoga-75min-jason-3/",
+    "10am Beginners Hatha Yoga  (75min)  – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-hatha-yoga-moon-level-1-75min-lala-3/",
+    "1130am Hatha Yoga  Moon  (Level 1, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90min-jodie-6/",
+    "3pm Yin Yoga (Level 1, 90min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/",
+    "The Practice",
+    ""
+   ],
+   [
+    "http://www.invisibleresources.com/",
+    "Invisible Resources",
+    "_blank"
+   ],
+   [
+    "#site-header",
+    "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tTo the top ↑\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tUp ↑\t\t\t\t\t\t\n\t\t\t\t\t",
+    ""
+   ]
+  ]
+ },
+ "anandamayi-ma-the-bliss-permeated-mother": {
+  "meta": {
+   "title": "Anandamayi Ma – The Bliss Permeated Mother – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/anandamayi-ma-the-bliss-permeated-mother/",
+   "jsonld": 0
+  },
+  "words": 1097,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/06/Anandamayi-Ma-The-Bliss-Permeated-Mother.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/emmas-articles/",
+    "Emma's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/anandamayi-ma-the-bliss-permeated-mother/",
+    "June 7, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/anandamayi-ma-the-bliss-permeated-mother/#respond",
+    "No Comments on Anandamayi Ma – The Bliss Permeated Mother",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/vedic-mantra-and-kirtan-whats-the-difference/",
+    "\n\t\t\t\t\t←\n\t\t\t\t\tVedic mantra and Kirtan what’s the difference?\n\t\t\t\t",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/tantra-is-not-about-sex-dont-get-distracted/",
+    "\n\t\t\t\t\t→\n\t\t\t\t\t\tTantra is Not About Sex. Don’t Get Distracted.\n\t\t\t\t",
+    ""
+   ]
+  ]
+ },
+ "blog": {
+  "meta": {
+   "title": "Page not found – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": null,
+   "jsonld": 0
+  },
+  "words": 29,
+  "images": [],
+  "iframes": [],
+  "forms": [
+   {
+    "action": "https://www.thepracticebali.com/",
+    "fields": [
+     {
+      "tag": "input",
+      "type": "search",
+      "name": "s",
+      "placeholder": "Search …",
+      "required": false
+     },
+     {
+      "tag": "input",
+      "type": "submit",
+      "name": null,
+      "placeholder": null,
+      "required": false
+     }
+    ]
+   }
+  ],
+  "links": []
+ },
+ "books-by-octavio": {
+  "meta": {
+   "title": "Books by Octavio – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/books-by-octavio/",
+   "jsonld": 0
+  },
+  "words": 535,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2025/12/books-banner.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2023/11/moon-sun-fire.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "1000",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2023/11/good-lizard.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "1000",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2023/11/sacred-fire.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "1000",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2023/11/your-dharma-is-greatness.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "1000",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/01/rwya-book.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "1000",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2025/01/video-1024x576.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "576",
+    "link": "https://thepracticeonline.mykajabi.com/icke-salvado"
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "mailto:admin@THEPRACTICEBALI.COM",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:OCTAVIO@THEPRACTICEBALI.COM",
+    "",
+    ""
+   ],
+   [
+    "mailto:admin@THEPRACTICEBALI.COM",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:OCTAVIO@THEPRACTICEBALI.COM",
+    "",
+    ""
+   ],
+   [
+    "mailto:admin@THEPRACTICEBALI.COM",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:OCTAVIO@THEPRACTICEBALI.COM",
+    "",
+    ""
+   ],
+   [
+    "mailto:admin@THEPRACTICEBALI.COM",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:OCTAVIO@THEPRACTICEBALI.COM",
+    "",
+    ""
+   ],
+   [
+    "mailto:admin@THEPRACTICEBALI.COM",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/icke-salvado",
+    "",
+    ""
+   ]
+  ]
+ },
+ "breathe": {
+  "meta": {
+   "title": "Breathe – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/breathe/",
+   "jsonld": 0
+  },
+  "words": 1235,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/09/breathe-blog.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/09/breathe-blog.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/amis-articles/",
+    "Ami's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/breathe/",
+    "September 8, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/breathe/#respond",
+    "No Comments on Breathe",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/tantra-is-not-about-sex-dont-get-distracted/",
+    "\n\t\t\t\t\t←\n\t\t\t\t\tTantra is Not About Sex. Don’t Get Distracted.\n\t\t\t\t",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/why-is-it-better-to-hold-asana-poses-instead-of-constantly-moving-through-them-in-a-yoga-class/",
+    "\n\t\t\t\t\t→\n\t\t\t\t\t\tWhy is It Better to HOLD Asana Poses Instead of Constantly Moving Through Them in a Yoga Class?\n\t\t\t\t",
+    ""
+   ]
+  ]
+ },
+ "cart": {
+  "meta": {
+   "title": "Cart – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/cart/",
+   "jsonld": 0
+  },
+  "words": 9,
+  "images": [],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/shop/",
+    "\n\t\t\tReturn to shop\t\t",
+    ""
+   ]
+  ]
+ },
+ "category__amis-articles": {
+  "meta": {
+   "title": "Ami’s Articles – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": null,
+   "jsonld": 0
+  },
+  "words": 2744,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/09/breathe-blog.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/09/breathe-blog.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/04/Sankalpa-Shakt.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/04/Sankalpa-Shakt.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/amis-articles/",
+    "Ami's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/breathe/",
+    "Breathe",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/breathe/",
+    "September 8, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/breathe/#respond",
+    "No Comments on Breathe",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/category/amis-articles/",
+    "Ami's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/sankalpa-shakti-the-power-within-you/",
+    "Sankalpa Shakti – The power within you",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/sankalpa-shakti-the-power-within-you/",
+    "April 5, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/sankalpa-shakti-the-power-within-you/#respond",
+    "No Comments on Sankalpa Shakti – The power within you",
+    ""
+   ],
+   [
+    "http://vidyaliving.com/healing-yoga-yoga-nidra-the-art-of-slowing-down/",
+    "Yoga Nidra Meditation",
+    ""
+   ]
+  ]
+ },
+ "category__ellens-articles": {
+  "meta": {
+   "title": "Ellen’s Articles – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": null,
+   "jsonld": 0
+  },
+  "words": 1494,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/04/Vedic-mantra-and-Kirtan.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/12/hanuman.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/12/hanuman.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/ellens-articles/",
+    "Ellen's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/vedic-mantra-and-kirtan-whats-the-difference/",
+    "Vedic mantra and Kirtan what’s the difference?",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/vedic-mantra-and-kirtan-whats-the-difference/",
+    "April 26, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/vedic-mantra-and-kirtan-whats-the-difference/#respond",
+    "No Comments on Vedic mantra and Kirtan what’s the difference?",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/category/ellens-articles/",
+    "Ellen's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-hanuman-chalisa/",
+    "The Hanumān Chālīsa",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-hanuman-chalisa/",
+    "December 18, 2020",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-hanuman-chalisa/#respond",
+    "No Comments on The Hanumān Chālīsa",
+    ""
+   ],
+   [
+    "http://www.ninaraochant.com/hanumanchalisa",
+    "here",
+    "_blank"
+   ]
+  ]
+ },
+ "category__emmas-articles": {
+  "meta": {
+   "title": "Emma’s Articles – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": null,
+   "jsonld": 0
+  },
+  "words": 3113,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/06/Anandamayi-Ma-The-Bliss-Permeated-Mother.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/03/Healing-The-Feminine.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/11/Journaling.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/11/Journaling.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/emmas-articles/",
+    "Emma's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/anandamayi-ma-the-bliss-permeated-mother/",
+    "Anandamayi Ma – The Bliss Permeated Mother",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/anandamayi-ma-the-bliss-permeated-mother/",
+    "June 7, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/anandamayi-ma-the-bliss-permeated-mother/#respond",
+    "No Comments on Anandamayi Ma – The Bliss Permeated Mother",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/category/emmas-articles/",
+    "Emma's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/healing-the-feminine/",
+    "Healing The Feminine",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/healing-the-feminine/",
+    "March 1, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/healing-the-feminine/#respond",
+    "No Comments on Healing The Feminine",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/category/emmas-articles/",
+    "Emma's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/journaling/",
+    "Journaling",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/journaling/",
+    "November 28, 2020",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/journaling/#respond",
+    "No Comments on Journaling",
+    ""
+   ]
+  ]
+ },
+ "category__jasons-articles": {
+  "meta": {
+   "title": "Jason’s Articles – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": null,
+   "jsonld": 0
+  },
+  "words": 432,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2023/09/jason.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/jasons-articles/",
+    "Jason's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/why-is-it-better-to-hold-asana-poses-instead-of-constantly-moving-through-them-in-a-yoga-class/",
+    "Why is It Better to HOLD Asana Poses Instead of Constantly Moving Through Them in a Yoga Class?",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/why-is-it-better-to-hold-asana-poses-instead-of-constantly-moving-through-them-in-a-yoga-class/",
+    "September 21, 2023",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/why-is-it-better-to-hold-asana-poses-instead-of-constantly-moving-through-them-in-a-yoga-class/#respond",
+    "No Comments on Why is It Better to HOLD Asana Poses Instead of Constantly Moving Through Them in a Yoga Class?",
+    ""
+   ]
+  ]
+ },
+ "category__octavios-articles": {
+  "meta": {
+   "title": "Octavio’s Articles – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": null,
+   "jsonld": 0
+  },
+  "words": 1822,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/07/Tantra-is-Not-About-Sex.-Dont-Get-Distracted.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/07/Tantra-is-Not-About-Sex.-Dont-Get-Distracted.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/01/the-howler.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/octavios-articles/",
+    "Octavio's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/tantra-is-not-about-sex-dont-get-distracted/",
+    "Tantra is Not About Sex. Don’t Get Distracted.",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/tantra-is-not-about-sex-dont-get-distracted/",
+    "July 4, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/tantra-is-not-about-sex-dont-get-distracted/#respond",
+    "No Comments on Tantra is Not About Sex. Don’t Get Distracted.",
+    ""
+   ],
+   [
+    "https://moonsunfire.com/",
+    "Moon Sun Fire ",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/category/octavios-articles/",
+    "Octavio's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-howler/",
+    "The Howler",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-howler/",
+    "January 27, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-howler/#respond",
+    "No Comments on The Howler",
+    ""
+   ]
+  ]
+ },
+ "category__uncategorized": {
+  "meta": {
+   "title": "Uncategorized – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": null,
+   "jsonld": 0
+  },
+  "words": 966,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/10/i-love-me.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/uncategorized/",
+    "Uncategorized",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/fall-in-love-with-taking-care-of-yourself-yoga/",
+    "Fall in love with taking care of yourself = Yoga",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/fall-in-love-with-taking-care-of-yourself-yoga/",
+    "October 26, 2020",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/fall-in-love-with-taking-care-of-yourself-yoga/#respond",
+    "No Comments on Fall in love with taking care of yourself = Yoga",
+    ""
+   ]
+  ]
+ },
+ "checkout": {
+  "meta": {
+   "title": "Cart – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/cart/",
+   "jsonld": 0
+  },
+  "words": 9,
+  "images": [],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/shop/",
+    "\n\t\t\tReturn to shop\t\t",
+    ""
+   ]
+  ]
+ },
+ "contact": {
+  "meta": {
+   "title": "Contact – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/contact/",
+   "jsonld": 0
+  },
+  "words": 101,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/01/contact-2022.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [
+   {
+    "action": "/contact/#wpcf7-f258-p8-o1",
+    "fields": [
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "your-name",
+      "placeholder": "Your Name",
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "email",
+      "name": "your-email",
+      "placeholder": "Your Email",
+      "required": true
+     },
+     {
+      "tag": "textarea",
+      "type": null,
+      "name": "your-message",
+      "placeholder": "Your Message",
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "submit",
+      "name": null,
+      "placeholder": null,
+      "required": false
+     }
+    ]
+   }
+  ],
+  "links": [
+   [
+    "https://www.thepracticebali.com/practice-with-us/faq/",
+    "FAQ page",
+    ""
+   ],
+   [
+    "mailto:reception@thepracticebali.com",
+    "reception@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:training@thepracticebali.com",
+    "training@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:membership@thepracticebali.com",
+    "membership@thepracticebali.com",
+    ""
+   ]
+  ]
+ },
+ "fall-in-love-with-taking-care-of-yourself-yoga": {
+  "meta": {
+   "title": "Fall in love with taking care of yourself = Yoga – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/fall-in-love-with-taking-care-of-yourself-yoga/",
+   "jsonld": 0
+  },
+  "words": 967,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/10/i-love-me.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/uncategorized/",
+    "Uncategorized",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/fall-in-love-with-taking-care-of-yourself-yoga/",
+    "October 26, 2020",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/fall-in-love-with-taking-care-of-yourself-yoga/#respond",
+    "No Comments on Fall in love with taking care of yourself = Yoga",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/journaling/",
+    "\n\t\t\t\t\t→\n\t\t\t\t\t\tJournaling\n\t\t\t\t",
+    ""
+   ]
+  ]
+ },
+ "faqs": {
+  "meta": {
+   "title": "FAQs – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/faqs/",
+   "jsonld": 0
+  },
+  "words": 124,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/01/tpo2024.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "mailto:membership@thepracticebali.com",
+    "membership@thepracticebali.com",
+    ""
+   ]
+  ]
+ },
+ "german-subscriber": {
+  "meta": {
+   "title": "German Subscriber – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/german-subscriber/",
+   "jsonld": 0
+  },
+  "words": 2,
+  "images": [],
+  "iframes": [],
+  "forms": [],
+  "links": []
+ },
+ "give-back-to-the-practice": {
+  "meta": {
+   "title": "Give Back To The Practice – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/give-back-to-the-practice/",
+   "jsonld": 0
+  },
+  "words": 105,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/02/collage-656x1024.jpg",
+    "alt": "",
+    "w": "656",
+    "h": "1024",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": []
+ },
+ "healing-the-feminine": {
+  "meta": {
+   "title": "Healing The Feminine – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/healing-the-feminine/",
+   "jsonld": 0
+  },
+  "words": 856,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/03/Healing-The-Feminine.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/emmas-articles/",
+    "Emma's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/healing-the-feminine/",
+    "March 1, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/healing-the-feminine/#respond",
+    "No Comments on Healing The Feminine",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-howler/",
+    "\n\t\t\t\t\t←\n\t\t\t\t\tThe Howler\n\t\t\t\t",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/sankalpa-shakti-the-power-within-you/",
+    "\n\t\t\t\t\t→\n\t\t\t\t\t\tSankalpa Shakti – The power within you\n\t\t\t\t",
+    ""
+   ]
+  ]
+ },
+ "home-sliders": {
+  "meta": {
+   "title": "Home Sliders – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/home-sliders/",
+   "jsonld": 0
+  },
+  "words": 2,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/Octa-kriya-home.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "405",
+    "link": "https://thepracticeonline.mykajabi.com/kriya-meditation"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/08/Meditation-TT-home-1024x405.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "405",
+    "link": "https://thepracticeonline.mykajabi.com/100hr-meditation-teacher-training"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/private-yoga-1024x405.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "405",
+    "link": "https://www.thepracticebali.com/practice-with-us/privates/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/10/200hr-new-feb27-home-1024x405.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "405",
+    "link": "https://thepracticeonline.mykajabi.com/200hr-traditional-hatha-teacher-training-2027"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/ONLINE-Meditation-TT-home-1024x405.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "405",
+    "link": "https://thepracticeonline.mykajabi.com/100hr-online-meditation-teacher-training-?_ga=2.22846459.1314881425.1789015308-1560999868.1783996903"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/300hr-Bali-home2027.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "405",
+    "link": "https://thepracticeonline.mykajabi.com/bali-300hr-advanced-tantric-hatha-yoga-meditation-2027"
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://thepracticeonline.mykajabi.com/kriya-meditation",
+    "",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/100hr-meditation-teacher-training",
+    "",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/",
+    "",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/200hr-traditional-hatha-teacher-training-2027",
+    "",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/100hr-online-meditation-teacher-training-?_ga=2.22846459.1314881425.1789015308-1560999868.1783996903",
+    "",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/bali-300hr-advanced-tantric-hatha-yoga-meditation-2027",
+    "",
+    ""
+   ]
+  ]
+ },
+ "home": {
+  "meta": {
+   "title": "The Practice – The Practice Yoga Institute",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/",
+   "jsonld": 0
+  },
+  "words": 22,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/Octa-kriya-home.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "405",
+    "link": "https://thepracticeonline.mykajabi.com/kriya-meditation"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/08/Meditation-TT-home-1024x405.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "405",
+    "link": "https://thepracticeonline.mykajabi.com/100hr-meditation-teacher-training"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/private-yoga-1024x405.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "405",
+    "link": "https://www.thepracticebali.com/practice-with-us/privates/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/10/200hr-new-feb27-home-1024x405.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "405",
+    "link": "https://thepracticeonline.mykajabi.com/200hr-traditional-hatha-teacher-training-2027"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/ONLINE-Meditation-TT-home-1024x405.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "405",
+    "link": "https://thepracticeonline.mykajabi.com/100hr-online-meditation-teacher-training-?_ga=2.22846459.1314881425.1789015308-1560999868.1783996903"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/300hr-Bali-home2027.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "405",
+    "link": "https://thepracticeonline.mykajabi.com/bali-300hr-advanced-tantric-hatha-yoga-meditation-2027"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/01/ytt_web.jpg",
+    "alt": "",
+    "w": "507",
+    "h": "340",
+    "link": "https://www.thepracticebali.com/yoga-teacher-training/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/07/studio-schedule.jpg",
+    "alt": "",
+    "w": "507",
+    "h": "340",
+    "link": "https://www.thepracticebali.com/practice-with-us/schedule/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/10/our_team_new.jpg",
+    "alt": "",
+    "w": "507",
+    "h": "340",
+    "link": "https://www.thepracticebali.com/meet-us/our-team/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/02/give-back-1.jpg",
+    "alt": "",
+    "w": "507",
+    "h": "340",
+    "link": "https://thepracticeonline.mykajabi.com/give-back"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2025/12/home-books.jpg",
+    "alt": "",
+    "w": "507",
+    "h": "340",
+    "link": "https://www.thepracticebali.com/books-by-octavio/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/03/tpopro.jpg",
+    "alt": "",
+    "w": "507",
+    "h": "340",
+    "link": "https://thepracticeonline.mykajabi.com/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/01/online_trainings_web.jpg",
+    "alt": "",
+    "w": "507",
+    "h": "340",
+    "link": "https://www.thepracticebali.com/online-trainings/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/10/kungfu2024.jpg",
+    "alt": "",
+    "w": "507",
+    "h": "340",
+    "link": "https://www.dragonsgatekungfu.com/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2025/02/the-practice-series.jpg",
+    "alt": "",
+    "w": "507",
+    "h": "340",
+    "link": "https://thepracticeonline.mykajabi.com/the-practice-series-123"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2023/10/MSF.jpg",
+    "alt": "",
+    "w": "507",
+    "h": "340",
+    "link": "https://moonsunfire.com/"
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://thepracticeonline.mykajabi.com/kriya-meditation",
+    "",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/100hr-meditation-teacher-training",
+    "",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/",
+    "",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/200hr-traditional-hatha-teacher-training-2027",
+    "",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/100hr-online-meditation-teacher-training-?_ga=2.22846459.1314881425.1789015308-1560999868.1783996903",
+    "",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/bali-300hr-advanced-tantric-hatha-yoga-meditation-2027",
+    "",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/yoga-teacher-training/",
+    "",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/meet-us/our-team/",
+    "",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/give-back",
+    "",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/books-by-octavio/",
+    "",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/",
+    "",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/online-trainings/",
+    "",
+    ""
+   ],
+   [
+    "https://www.dragonsgatekungfu.com/",
+    "",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/the-practice-series-123",
+    "",
+    ""
+   ],
+   [
+    "https://moonsunfire.com/",
+    "",
+    ""
+   ]
+  ]
+ },
+ "journaling": {
+  "meta": {
+   "title": "Journaling – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/journaling/",
+   "jsonld": 0
+  },
+  "words": 1203,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/11/Journaling.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/11/Journaling.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/emmas-articles/",
+    "Emma's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/journaling/",
+    "November 28, 2020",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/journaling/#respond",
+    "No Comments on Journaling",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/fall-in-love-with-taking-care-of-yourself-yoga/",
+    "\n\t\t\t\t\t←\n\t\t\t\t\tFall in love with taking care of yourself = Yoga\n\t\t\t\t",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-hanuman-chalisa/",
+    "\n\t\t\t\t\t→\n\t\t\t\t\t\tThe Hanumān Chālīsa\n\t\t\t\t",
+    ""
+   ]
+  ]
+ },
+ "my-account": {
+  "meta": {
+   "title": "Page not found – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": null,
+   "jsonld": 0
+  },
+  "words": 29,
+  "images": [],
+  "iframes": [],
+  "forms": [
+   {
+    "action": "https://www.thepracticebali.com/",
+    "fields": [
+     {
+      "tag": "input",
+      "type": "search",
+      "name": "s",
+      "placeholder": "Search …",
+      "required": false
+     },
+     {
+      "tag": "input",
+      "type": "submit",
+      "name": null,
+      "placeholder": null,
+      "required": false
+     }
+    ]
+   }
+  ],
+  "links": []
+ },
+ "nonexistent-404-check": {
+  "meta": {
+   "title": "Page not found – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": null,
+   "jsonld": 0
+  },
+  "words": 29,
+  "images": [],
+  "iframes": [],
+  "forms": [
+   {
+    "action": "https://www.thepracticebali.com/",
+    "fields": [
+     {
+      "tag": "input",
+      "type": "search",
+      "name": "s",
+      "placeholder": "Search …",
+      "required": false
+     },
+     {
+      "tag": "input",
+      "type": "submit",
+      "name": null,
+      "placeholder": null,
+      "required": false
+     }
+    ]
+   }
+  ],
+  "links": []
+ },
+ "online-trainings": {
+  "meta": {
+   "title": "Online Trainings – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/online-trainings/",
+   "jsonld": 0
+  },
+  "words": 734,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/01/online_training2024.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/10/IG-Square-50Hr-NEW-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/10/IG-Basic-Breathwork-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2025/11/TT-web-1024x1024.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2025/02/breathwork-web.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "998",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2025/02/Octa-Meditation-web.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "1000",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/09/IG-Post-Yoga-Sutra.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "998",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2025/09/square-Jason-Events-1024x1024.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/10/50Hr-IG-Post-1024x1024.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2025/02/home-study-new.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "1000",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2025/02/Upskill-web-1024x1024.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/10/Kundalini-IG-Post-1024x1024.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/10/YDIG-IG-Post-1024x1024.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "1024",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/basic-breathwork",
+    "CLICK HERE FOR MORE INFO",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/Teachers-Toolbox",
+    "CLICK HERE FOR MORE INFO",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/80day-complete-immune-system-repair",
+    "CLICK HERE FOR MORE INFO",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/how-to-meditate-correctly",
+    "CLICK HERE TO LEARN MORE",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/yoga-sutra-master-training",
+    "CLICK HERE FOR MORE INFO",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/yantra-and-you",
+    "CLICK HERE FOR MORE INFO",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/50hr-online-training",
+    "CLICK HERE FOR MORE INFO",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/200hr-hatha-yoga-home-study-program",
+    "CLICK HERE FOR MORE INFO",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/upskill",
+    "CLICK HERE FOR MORE INFO",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/ignite-the-sacred-fire-evergreen",
+    "CLICK HERE FOR MORE INFO",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/your-dharma-is-greatness-evergreen",
+    "CLICK HERE FOR MORE INFO",
+    ""
+   ]
+  ]
+ },
+ "our-team": {
+  "meta": {
+   "title": "Our Team – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/our-team/",
+   "jsonld": 0
+  },
+  "words": 2560,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/10/schedule_new.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/07/octa-profile.jpg",
+    "alt": "",
+    "w": "350",
+    "h": "350",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/01/emma-s-profile.jpg",
+    "alt": "",
+    "w": "350",
+    "h": "350",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/01/ming.jpg",
+    "alt": "",
+    "w": "350",
+    "h": "350",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2023/01/jason-2023.jpg",
+    "alt": "",
+    "w": "350",
+    "h": "350",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/10/lala.jpg",
+    "alt": "",
+    "w": "350",
+    "h": "350",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/07/jodie-profile.jpg",
+    "alt": "",
+    "w": "350",
+    "h": "350",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/meet-us/senior-teachers/",
+    "Our senior teachers",
+    "_blank"
+   ],
+   [
+    "https://moonsunfire.com/",
+    "link",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "Visit Us",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-practice-online/",
+    "Train With Us Today",
+    ""
+   ]
+  ]
+ },
+ "practice-with-us": {
+  "meta": {
+   "title": "Page not found – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": null,
+   "jsonld": 0
+  },
+  "words": 29,
+  "images": [],
+  "iframes": [],
+  "forms": [
+   {
+    "action": "https://www.thepracticebali.com/",
+    "fields": [
+     {
+      "tag": "input",
+      "type": "search",
+      "name": "s",
+      "placeholder": "Search …",
+      "required": false
+     },
+     {
+      "tag": "input",
+      "type": "submit",
+      "name": null,
+      "placeholder": null,
+      "required": false
+     }
+    ]
+   }
+  ],
+  "links": []
+ },
+ "practice-with-us__class-descriptions": {
+  "meta": {
+   "title": "Descriptions – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/practice-with-us/class-descriptions/",
+   "jsonld": 0
+  },
+  "words": 399,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/01/description2024.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/07/moon22.jpg",
+    "alt": "",
+    "w": "900",
+    "h": "900",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/07/sun22.jpg",
+    "alt": "",
+    "w": "900",
+    "h": "900",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/07/fire22.jpg",
+    "alt": "",
+    "w": "900",
+    "h": "900",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2023/01/morning.jpg",
+    "alt": "",
+    "w": "900",
+    "h": "900",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/12/yin.jpg",
+    "alt": "",
+    "w": "900",
+    "h": "900",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/07/vital22.jpg",
+    "alt": "",
+    "w": "900",
+    "h": "900",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/07/kundalini22.jpg",
+    "alt": "",
+    "w": "900",
+    "h": "900",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/07/kirtan22.jpg",
+    "alt": "",
+    "w": "900",
+    "h": "900",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/01/qi-gong.jpg",
+    "alt": "",
+    "w": "900",
+    "h": "900",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/01/wing-chu.jpg",
+    "alt": "",
+    "w": "900",
+    "h": "900",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "Schedule",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/class-descriptions/",
+    "Descriptions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/workshops/",
+    "Workshops",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/rates/",
+    "Rates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/",
+    "Privates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/faq/",
+    "FAQs",
+    ""
+   ]
+  ]
+ },
+ "practice-with-us__faq": {
+  "meta": {
+   "title": "FAQs – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/practice-with-us/faq/",
+   "jsonld": 0
+  },
+  "words": 1620,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/10/schedule-new.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "Schedule",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/class-descriptions/",
+    "Descriptions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/workshops/",
+    "Workshops",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/rates/",
+    "Rates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/",
+    "Privates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/faq/",
+    "FAQs",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/rates/",
+    "https://www.thepracticebali.com/practice-with-us/rates/",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "Yoga Schedule",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/contact/",
+    "Contact Page",
+    ""
+   ],
+   [
+    "https://www.google.com/maps/place/The+Practice+Bali/@-8.6556253,115.131796,15z/data=!4m5!3m4!1s0x0:0x101ff0ef9d332571!8m2!3d-8.6556253!4d115.131796",
+    "Google maps",
+    "_blank"
+   ],
+   [
+    "email: office@thepracticebali.com",
+    "email: office@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/",
+    "link",
+    ""
+   ],
+   [
+    "mailto:accounts@thepracticebali.com",
+    "accounts@thepracticebali.com",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/offers/YQjfffnk/checkout",
+    "TPOpro",
+    ""
+   ],
+   [
+    "mailto:training@thepracticebali.com",
+    "training@thepracticebali.com",
+    ""
+   ]
+  ]
+ },
+ "practice-with-us__privates": {
+  "meta": {
+   "title": "Privates – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/practice-with-us/privates/",
+   "jsonld": 0
+  },
+  "words": 639,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/01/privates2024.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/lala-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/jason-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/ming-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/yantra-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [
+   {
+    "action": "/practice-with-us/privates/#wpcf7-f694-p221-o1",
+    "fields": [
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "your-name",
+      "placeholder": null,
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "email",
+      "name": "your-email",
+      "placeholder": null,
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "date",
+      "name": "date-of-class",
+      "placeholder": null,
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "time-of-class",
+      "placeholder": null,
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "location-request",
+      "placeholder": null,
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "tel",
+      "name": "your-phone",
+      "placeholder": null,
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "number",
+      "name": "number-of-students",
+      "placeholder": null,
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "teachers-request",
+      "placeholder": null,
+      "required": false
+     },
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "style-of-class",
+      "placeholder": null,
+      "required": false
+     },
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "props-required",
+      "placeholder": null,
+      "required": false
+     },
+     {
+      "tag": "textarea",
+      "type": null,
+      "name": "special-requirements",
+      "placeholder": null,
+      "required": false
+     },
+     {
+      "tag": "input",
+      "type": "submit",
+      "name": null,
+      "placeholder": null,
+      "required": false
+     }
+    ]
+   }
+  ],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "Schedule",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/class-descriptions/",
+    "Descriptions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/workshops/",
+    "Workshops",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/rates/",
+    "Rates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/",
+    "Privates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/faq/",
+    "FAQs",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/terms-conditions/",
+    "TERMS & CONDITIONS",
+    ""
+   ]
+  ]
+ },
+ "practice-with-us__privates__terms-conditions": {
+  "meta": {
+   "title": "Terms & Conditions – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/practice-with-us/privates/terms-conditions/",
+   "jsonld": 0
+  },
+  "words": 260,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/01/privates2024.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "Schedule",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/class-descriptions/",
+    "Descriptions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/workshops/",
+    "Workshops",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/rates/",
+    "Rates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/",
+    "Privates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/faq/",
+    "FAQs",
+    ""
+   ]
+  ]
+ },
+ "practice-with-us__rates": {
+  "meta": {
+   "title": "Rates – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/practice-with-us/rates/",
+   "jsonld": 0
+  },
+  "words": 167,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/01/rates2024.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "Schedule",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/class-descriptions/",
+    "Descriptions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/workshops/",
+    "Workshops",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/rates/",
+    "Rates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/",
+    "Privates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/faq/",
+    "FAQs",
+    ""
+   ]
+  ]
+ },
+ "practice-with-us__schedule": {
+  "meta": {
+   "title": "Schedule – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/practice-with-us/schedule/",
+   "jsonld": 154
+  },
+  "words": 3496,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/10/schedule_new.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "Schedule",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/class-descriptions/",
+    "Descriptions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/workshops/",
+    "Workshops",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/rates/",
+    "Rates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/",
+    "Privates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/faq/",
+    "FAQs",
+    ""
+   ],
+   [
+    "#",
+    " September",
+    ""
+   ],
+   [
+    "#",
+    "November ",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/930am-jianfa-75min-ming-3/",
+    "930am Jianfa (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-90min-ela-max-12-people-3/",
+    "1130am Beginners Hatha Yoga (90min) – Ela (Max 12 People)",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-hatha-yoga-moon-level-1-90min-ela-max-12-people-3/",
+    "3pm Hatha Yoga Moon (Level 1, 90min) – Ela (Max 12 People)",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-moon-level-1-90-min-jodie-max-12-people-2/",
+    "10am Hatha Yoga Moon (Level 1, 90 Min) – Jodie (Max 12 People)",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-90min-ela-max-12-people-4/",
+    "1130am Beginners Hatha Yoga (90min) – Ela (Max 12 People)",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90min-jodie-max-12-people-3/",
+    "3pm Yin Yoga ( Level 1, 90min) – Jodie (Max 12 People)",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-ela-max-12-people/",
+    "830am Hatha Yoga  Sun  (Level 1, 75min) – Ela (Max 12 People)",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-beginners-hatha-yoga-75-min-lala-max-12-people/",
+    "10am Beginners Hatha Yoga  (75 Min) – Lala (Max 12 People)",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-hatha-yoga-moon-level-1-75min-lala-max-12-people/",
+    "1130am Hatha Yoga  Moon  (Level 1, 75min) – Lala (Max 12 People)",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90min-jodie-max-12-people-4/",
+    "3pm Yin Yoga (Level 1, 90min) – Jodie (Max 12 People)",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-moon-level-2-75min-ela-4/",
+    "830am Hatha Yoga  Moon (Level 2, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-3pm-workshop-an-introduction-to-yin-yoga-jodie/",
+    "10am – 3pm: Workshop: An Introduction To Yin Yoga – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-beginners-hatha-yoga-75-min-lala-3/",
+    "10am Beginners Hatha Yoga  (75 Min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-yin-yoga-2hr-level-1-200k-lala/",
+    "1130am Yin Yoga (2hr, Level 1) (200K) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yang-to-yin-level-1-75min-ela/",
+    "3pm Hatha Moon (Level 1, 90min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-jodie-3/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-moon-level-2-75-min-lala/",
+    "10am Hatha Yoga Moon (Level 2, 75 Min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-75min-lala-2/",
+    "1130am Beginners Hatha Yoga (75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90-min-jodie-3/",
+    "3pm Yin Yoga (Level 1, 90 Min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-lala-2/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-free-class-yang-to-yin-level-1-75min-jodie/",
+    "10am FREE CLASS Yang to Yin (Level 1, 75min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-852hz-meditation-to-activate-the-3rd-eye-level-1-1hr-150k-octavio/",
+    "1130am 852Hz Meditation to activate the 3rd Eye (Level 1, 60min) (150k) – Octavio ",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-beginners-hatha-yoga-90min-ela/",
+    "3pm Beginners Hatha Yoga (90min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/630pm-bhakti-yoga-ellen-3/",
+    "630pm Bhakti Yoga – Ellen",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-ela-5/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-moon-level-2-75min-lala-3/",
+    "10am Hatha Yoga Moon (Level 2, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-75-min-lala/",
+    "1130am Beginners Hatha Yoga (75 Min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-2hr-200k-jason/",
+    "3pm Yin Yoga (Level 1, 2hr) (200K) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/430pm-raja-yoga-meditation-60min-120k-octavio-2/",
+    "430pm Raja Yoga Meditation (Level 2, 60min) (150k) – Octavio",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-2-75min-jason/",
+    "830am Hatha Yoga Sun  (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/930am-jianfa-75min-ming-3/",
+    "930am Jianfa (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-yang-to-yin-level-1-75min-ela/",
+    "10am Yang to Yin (Level 1, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-528hz-meditation-for-dna-repair-physical-healing-level-1-1hr-150k-octavio/",
+    "1130am 528Hz Meditation for DNA repair & physical healing (Level 1, 60min) (150k) – Octavio",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-hatha-yoga-moon-level-1-90min-ela-5/",
+    "3pm Hatha Yoga Moon (Level 1, 90min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-moon-level-2-75min-jodie-4/",
+    "830am Hatha Yoga Moon  (Level 2, 75min) –Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-sun-level-2-75min-jason-4/",
+    "10am Hatha Yoga Sun  (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-90min-jason-3/",
+    "1130am Beginners Hatha Yoga (90min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90min-jodie-5/",
+    "3pm Yin Yoga ( Level 1, 90min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-2-75min-jason-2/",
+    "830am Hatha Yoga Sun (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-beginners-hatha-yoga-75min-jason-3/",
+    "10am Beginners Hatha Yoga  (75min)  – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-hatha-yoga-moon-level-1-75min-lala-3/",
+    "1130am Hatha Yoga  Moon  (Level 1, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90min-jodie-6/",
+    "3pm Yin Yoga (Level 1, 90min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-moon-level-2-75min-ela-4/",
+    "830am Hatha Yoga  Moon (Level 2, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-beginners-hatha-yoga-75-min-lala-3/",
+    "10am Beginners Hatha Yoga  (75 Min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-yin-yoga-2hr-level-1-200k-jason-3/",
+    "1130am Yin Yoga (2hr, Level 1) (200k) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-hatha-yoga-moon-level-1-90-min-jodie-4/",
+    "3pm Hatha Yoga Moon (Level 1, 90 Min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-jodie-3/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-moon-level-2-75-min-lala/",
+    "10am Hatha Yoga Moon (Level 2, 75 Min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-75min-lala-2/",
+    "1130am Beginners Hatha Yoga (75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90-min-jodie-3/",
+    "3pm Yin Yoga (Level 1, 90 Min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-lala-2/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-yang-to-yin-level-1-75min-jodie/",
+    "10am Yang to Yin (Level 1, 75min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-852hz-meditation-to-activate-the-3rd-eye-level-1-1hr-150k-octavio/",
+    "1130am 852Hz Meditation to activate the 3rd Eye (Level 1, 60min) (150k) – Octavio ",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-beginners-hatha-yoga-90min-ela/",
+    "3pm Beginners Hatha Yoga (90min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-ela-5/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-moon-level-2-75min-lala-3/",
+    "10am Hatha Yoga Moon (Level 2, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-75-min-lala/",
+    "1130am Beginners Hatha Yoga (75 Min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-2hr-200k-jason/",
+    "3pm Yin Yoga (Level 1, 2hr) (200K) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/430pm-raja-yoga-meditation-60min-120k-octavio-2/",
+    "430pm Raja Yoga Meditation (Level 2, 60min) (150k) – Octavio",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-2-75min-jason/",
+    "830am Hatha Yoga Sun  (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/930am-jianfa-75min-ming-3/",
+    "930am Jianfa (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-yang-to-yin-level-1-75min-ela/",
+    "10am Yang to Yin (Level 1, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-528hz-meditation-for-dna-repair-physical-healing-level-1-1hr-150k-octavio/",
+    "1130am 528Hz Meditation for DNA repair & physical healing (Level 1, 60min) (150k) – Octavio",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-hatha-yoga-moon-level-1-90min-ela-5/",
+    "3pm Hatha Yoga Moon (Level 1, 90min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-moon-level-2-75min-jodie-4/",
+    "830am Hatha Yoga Moon  (Level 2, 75min) –Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-sun-level-2-75min-jason-4/",
+    "10am Hatha Yoga Sun  (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-90min-jason-3/",
+    "1130am Beginners Hatha Yoga (90min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90min-jodie-5/",
+    "3pm Yin Yoga ( Level 1, 90min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-2-75min-jason-2/",
+    "830am Hatha Yoga Sun (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-beginners-hatha-yoga-75min-jason-3/",
+    "10am Beginners Hatha Yoga  (75min)  – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-hatha-yoga-moon-level-1-75min-lala-3/",
+    "1130am Hatha Yoga  Moon  (Level 1, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90min-jodie-6/",
+    "3pm Yin Yoga (Level 1, 90min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-moon-level-2-75min-ela-4/",
+    "830am Hatha Yoga  Moon (Level 2, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-beginners-hatha-yoga-75-min-lala-3/",
+    "10am Beginners Hatha Yoga  (75 Min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-yin-yoga-2hr-level-1-200k-jason-3/",
+    "1130am Yin Yoga (2hr, Level 1) (200k) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-hatha-yoga-moon-level-1-90-min-jodie-4/",
+    "3pm Hatha Yoga Moon (Level 1, 90 Min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-jodie-3/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-moon-level-2-75-min-lala/",
+    "10am Hatha Yoga Moon (Level 2, 75 Min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-75min-lala-2/",
+    "1130am Beginners Hatha Yoga (75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90-min-jodie-3/",
+    "3pm Yin Yoga (Level 1, 90 Min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-lala-2/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-yang-to-yin-level-1-75min-jodie/",
+    "10am Yang to Yin (Level 1, 75min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-852hz-meditation-to-activate-the-3rd-eye-level-1-1hr-150k-octavio/",
+    "1130am 852Hz Meditation to activate the 3rd Eye (Level 1, 60min) (150k) – Octavio ",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-beginners-hatha-yoga-90min-ela/",
+    "3pm Beginners Hatha Yoga (90min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/630pm-bhakti-yoga-ellen-4/",
+    "630pm Bhakti Yoga – Ellen",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-ela-5/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-moon-level-2-75min-lala-3/",
+    "10am Hatha Yoga Moon (Level 2, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-75-min-lala/",
+    "1130am Beginners Hatha Yoga (75 Min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-2hr-200k-jason/",
+    "3pm Yin Yoga (Level 1, 2hr) (200K) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/430pm-raja-yoga-meditation-60min-120k-octavio-2/",
+    "430pm Raja Yoga Meditation (Level 2, 60min) (150k) – Octavio",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-2-75min-jason/",
+    "830am Hatha Yoga Sun  (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/930am-jianfa-75min-ming-3/",
+    "930am Jianfa (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-yang-to-yin-level-1-75min-ela/",
+    "10am Yang to Yin (Level 1, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-528hz-meditation-for-dna-repair-physical-healing-level-1-1hr-150k-octavio/",
+    "1130am 528Hz Meditation for DNA repair & physical healing (Level 1, 60min) (150k) – Octavio",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-hatha-yoga-moon-level-1-90min-ela-5/",
+    "3pm Hatha Yoga Moon (Level 1, 90min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-moon-level-2-75min-jodie-4/",
+    "830am Hatha Yoga Moon  (Level 2, 75min) –Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-sun-level-2-75min-jason-4/",
+    "10am Hatha Yoga Sun  (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-90min-jason-3/",
+    "1130am Beginners Hatha Yoga (90min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90min-jodie-5/",
+    "3pm Yin Yoga ( Level 1, 90min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-2-75min-jason-2/",
+    "830am Hatha Yoga Sun (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-beginners-hatha-yoga-75min-jason-3/",
+    "10am Beginners Hatha Yoga  (75min)  – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-hatha-yoga-moon-level-1-75min-lala-3/",
+    "1130am Hatha Yoga  Moon  (Level 1, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90min-jodie-6/",
+    "3pm Yin Yoga (Level 1, 90min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-moon-level-2-75min-ela-4/",
+    "830am Hatha Yoga  Moon (Level 2, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-beginners-hatha-yoga-75-min-lala-3/",
+    "10am Beginners Hatha Yoga  (75 Min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-yin-yoga-2hr-level-1-200k-jason-3/",
+    "1130am Yin Yoga (2hr, Level 1) (200k) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-hatha-yoga-moon-level-1-90-min-jodie-4/",
+    "3pm Hatha Yoga Moon (Level 1, 90 Min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-jodie-3/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-moon-level-2-75-min-lala/",
+    "10am Hatha Yoga Moon (Level 2, 75 Min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-75min-lala-2/",
+    "1130am Beginners Hatha Yoga (75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90-min-jodie-3/",
+    "3pm Yin Yoga (Level 1, 90 Min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-lala-2/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-yang-to-yin-level-1-75min-jodie/",
+    "10am Yang to Yin (Level 1, 75min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-852hz-meditation-to-activate-the-3rd-eye-level-1-1hr-150k-octavio/",
+    "1130am 852Hz Meditation to activate the 3rd Eye (Level 1, 60min) (150k) – Octavio ",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-beginners-hatha-yoga-90min-ela/",
+    "3pm Beginners Hatha Yoga (90min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-1-75min-ela-5/",
+    "830am Hatha Yoga Sun (Level 1, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-moon-level-2-75min-lala-3/",
+    "10am Hatha Yoga Moon (Level 2, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-75-min-lala/",
+    "1130am Beginners Hatha Yoga (75 Min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-2hr-200k-jason/",
+    "3pm Yin Yoga (Level 1, 2hr) (200K) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-2-75min-jason/",
+    "830am Hatha Yoga Sun  (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-yang-to-yin-level-1-75min-ela/",
+    "10am Yang to Yin (Level 1, 75min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-528hz-meditation-for-dna-repair-physical-healing-level-1-1hr-150k-octavio/",
+    "1130am 528Hz Meditation for DNA repair & physical healing (Level 1, 60min) (150k) – Octavio",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-hatha-yoga-moon-level-1-90min-ela-5/",
+    "3pm Hatha Yoga Moon (Level 1, 90min) – Ela",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/8am-qi-gong-75min-ming-6/",
+    "8am Qi Gong (75min) – Ming",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-moon-level-2-75min-jodie-4/",
+    "830am Hatha Yoga Moon  (Level 2, 75min) –Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-hatha-yoga-sun-level-2-75min-jason-4/",
+    "10am Hatha Yoga Sun  (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-beginners-hatha-yoga-90min-jason-3/",
+    "1130am Beginners Hatha Yoga (90min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90min-jodie-5/",
+    "3pm Yin Yoga ( Level 1, 90min) – Jodie",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-7pm-2-day-workshop-introduction-to-kriya-meditation-octavio/",
+    "830am – 7pm 2-Day Workshop: Introduction to Kriya Meditation – Octavio",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/830am-hatha-yoga-sun-level-2-75min-jason-2/",
+    "830am Hatha Yoga Sun (Level 2, 75min) – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/10am-beginners-hatha-yoga-75min-jason-3/",
+    "10am Beginners Hatha Yoga  (75min)  – Jason",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/1130am-hatha-yoga-moon-level-1-75min-lala-3/",
+    "1130am Hatha Yoga  Moon  (Level 1, 75min) – Lala",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/all-events/3pm-yin-yoga-level-1-90min-jodie-6/",
+    "3pm Yin Yoga (Level 1, 90min) – Jodie",
+    ""
+   ]
+  ]
+ },
+ "practice-with-us__workshops": {
+  "meta": {
+   "title": "Workshops – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/practice-with-us/workshops/",
+   "jsonld": 0
+  },
+  "words": 531,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/01/workshop2024.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/08/IG-Post-Jodie-Presentationpsd-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/08/IG-Post-Jodie-Workshop-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/IG-Square-Octa-Workshop-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "Schedule",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/class-descriptions/",
+    "Descriptions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/workshops/",
+    "Workshops",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/rates/",
+    "Rates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/",
+    "Privates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/faq/",
+    "FAQs",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/an-introduction-to-yin-yoga/",
+    "BOOK NOW",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/introduction-to-kriya-meditation/",
+    "BOOK NOW",
+    ""
+   ]
+  ]
+ },
+ "practice-with-us__workshops__terms-conditions-2": {
+  "meta": {
+   "title": "Terms & Conditions – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/practice-with-us/workshops/terms-conditions-2/",
+   "jsonld": 0
+  },
+  "words": 1257,
+  "images": [
+   {
+    "src": null,
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "Schedule",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/class-descriptions/",
+    "Descriptions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/workshops/",
+    "Workshops",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/rates/",
+    "Rates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/",
+    "Privates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/faq/",
+    "FAQs",
+    ""
+   ],
+   [
+    "mailto:training@thepracticebali.com",
+    "training@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:training@thepracticebali.com",
+    "training@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:accounts@thepracticebali.com",
+    "accounts@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ]
+  ]
+ },
+ "privacy-policy": {
+  "meta": {
+   "title": "Privacy Policy – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/privacy-policy/",
+   "jsonld": 0
+  },
+  "words": 2139,
+  "images": [
+   {
+    "src": null,
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.termsfeed.com/privacy-policy-generator/",
+    "Privacy Policy Generator",
+    ""
+   ],
+   [
+    "https://www.termsfeed.com/blog/cookies/",
+    "All About Cookies",
+    ""
+   ]
+  ]
+ },
+ "product-category__uncategorized": {
+  "meta": {
+   "title": "Uncategorized – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": null,
+   "jsonld": 1
+  },
+  "words": 52,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/08/IG-Post-Jodie-Workshop-300x300.jpg",
+    "alt": "An Introduction to Yin Yoga",
+    "w": "300",
+    "h": "300",
+    "link": "https://www.thepracticebali.com/product/an-introduction-to-yin-yoga/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/07/IG-Post-Lala-300x300.jpg",
+    "alt": "Hatha Yoga Moon",
+    "w": "300",
+    "h": "300",
+    "link": "https://www.thepracticebali.com/product/hatha-yoga-moon/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/IG-Square-Octa-Workshop-300x300.jpg",
+    "alt": "Introduction to Kriya Meditation",
+    "w": "300",
+    "h": "300",
+    "link": "https://www.thepracticebali.com/product/introduction-to-kriya-meditation/"
+   }
+  ],
+  "iframes": [],
+  "forms": [
+   {
+    "action": null,
+    "fields": [
+     {
+      "tag": "select",
+      "type": null,
+      "name": "orderby",
+      "placeholder": null,
+      "required": false
+     }
+    ]
+   }
+  ],
+  "links": [
+   [
+    "https://www.thepracticebali.com",
+    "Home",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/an-introduction-to-yin-yoga/",
+    "An Introduction to Yin Yoga\n\tRp500.000\n",
+    ""
+   ],
+   [
+    "/product-category/uncategorized/?add-to-cart=12595",
+    "Add to cart",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/hatha-yoga-moon/",
+    "Hatha Yoga Moon\n\tRp300.000\n",
+    ""
+   ],
+   [
+    "/product-category/uncategorized/?add-to-cart=12460",
+    "Add to cart",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/introduction-to-kriya-meditation/",
+    "Introduction to Kriya Meditation\n\tRp3.500.000\n",
+    ""
+   ],
+   [
+    "/product-category/uncategorized/?add-to-cart=12730",
+    "Add to cart",
+    ""
+   ]
+  ]
+ },
+ "product__an-introduction-to-yin-yoga": {
+  "meta": {
+   "title": "An Introduction to Yin Yoga – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/product/an-introduction-to-yin-yoga/",
+   "jsonld": 1
+  },
+  "words": 83,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/08/IG-Post-Jodie-Workshop-600x750.jpg",
+    "alt": "An Introduction to Yin Yoga",
+    "w": "600",
+    "h": "750",
+    "link": "https://www.thepracticebali.com/wp-content/uploads/2026/08/IG-Post-Jodie-Workshop.jpg"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/07/IG-Post-Lala-300x300.jpg",
+    "alt": "Hatha Yoga Moon",
+    "w": "300",
+    "h": "300",
+    "link": "https://www.thepracticebali.com/product/hatha-yoga-moon/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/IG-Square-Octa-Workshop-300x300.jpg",
+    "alt": "Introduction to Kriya Meditation",
+    "w": "300",
+    "h": "300",
+    "link": "https://www.thepracticebali.com/product/introduction-to-kriya-meditation/"
+   }
+  ],
+  "iframes": [],
+  "forms": [
+   {
+    "action": "https://www.thepracticebali.com/product/an-introduction-to-yin-yoga/",
+    "fields": [
+     {
+      "tag": "input",
+      "type": "number",
+      "name": "quantity",
+      "placeholder": "",
+      "required": false
+     }
+    ]
+   }
+  ],
+  "links": [
+   [
+    "https://www.thepracticebali.com",
+    "Home",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product-category/uncategorized/",
+    "Uncategorized",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2026/08/IG-Post-Jodie-Workshop.jpg",
+    "",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product-category/uncategorized/",
+    "Uncategorized",
+    ""
+   ],
+   [
+    "#tab-description",
+    "\n\t\t\t\t\t\tDescription\t\t\t\t\t",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/hatha-yoga-moon/",
+    "Hatha Yoga Moon\n\tRp300.000\n",
+    ""
+   ],
+   [
+    "/product/an-introduction-to-yin-yoga/?add-to-cart=12460",
+    "Add to cart",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/introduction-to-kriya-meditation/",
+    "Introduction to Kriya Meditation\n\tRp3.500.000\n",
+    ""
+   ],
+   [
+    "/product/an-introduction-to-yin-yoga/?add-to-cart=12730",
+    "Add to cart",
+    ""
+   ]
+  ]
+ },
+ "product__hatha-yoga-moon": {
+  "meta": {
+   "title": "Hatha Yoga Moon – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/product/hatha-yoga-moon/",
+   "jsonld": 1
+  },
+  "words": 83,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/07/IG-Post-Lala-600x750.jpg",
+    "alt": "Hatha Yoga Moon",
+    "w": "600",
+    "h": "750",
+    "link": "https://www.thepracticebali.com/wp-content/uploads/2026/07/IG-Post-Lala.jpg"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/IG-Square-Octa-Workshop-300x300.jpg",
+    "alt": "Introduction to Kriya Meditation",
+    "w": "300",
+    "h": "300",
+    "link": "https://www.thepracticebali.com/product/introduction-to-kriya-meditation/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/08/IG-Post-Jodie-Workshop-300x300.jpg",
+    "alt": "An Introduction to Yin Yoga",
+    "w": "300",
+    "h": "300",
+    "link": "https://www.thepracticebali.com/product/an-introduction-to-yin-yoga/"
+   }
+  ],
+  "iframes": [],
+  "forms": [
+   {
+    "action": "https://www.thepracticebali.com/product/hatha-yoga-moon/",
+    "fields": [
+     {
+      "tag": "input",
+      "type": "number",
+      "name": "quantity",
+      "placeholder": "",
+      "required": false
+     }
+    ]
+   }
+  ],
+  "links": [
+   [
+    "https://www.thepracticebali.com",
+    "Home",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product-category/uncategorized/",
+    "Uncategorized",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2026/07/IG-Post-Lala.jpg",
+    "",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product-category/uncategorized/",
+    "Uncategorized",
+    ""
+   ],
+   [
+    "#tab-description",
+    "\n\t\t\t\t\t\tDescription\t\t\t\t\t",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/introduction-to-kriya-meditation/",
+    "Introduction to Kriya Meditation\n\tRp3.500.000\n",
+    ""
+   ],
+   [
+    "/product/hatha-yoga-moon/?add-to-cart=12730",
+    "Add to cart",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/an-introduction-to-yin-yoga/",
+    "An Introduction to Yin Yoga\n\tRp500.000\n",
+    ""
+   ],
+   [
+    "/product/hatha-yoga-moon/?add-to-cart=12595",
+    "Add to cart",
+    ""
+   ]
+  ]
+ },
+ "product__introduction-to-kriya-meditation": {
+  "meta": {
+   "title": "Introduction to Kriya Meditation – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/product/introduction-to-kriya-meditation/",
+   "jsonld": 1
+  },
+  "words": 82,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/IG-Square-Octa-Workshop-600x750.jpg",
+    "alt": "Introduction to Kriya Meditation",
+    "w": "600",
+    "h": "750",
+    "link": "https://www.thepracticebali.com/wp-content/uploads/2026/09/IG-Square-Octa-Workshop.jpg"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/07/IG-Post-Lala-300x300.jpg",
+    "alt": "Hatha Yoga Moon",
+    "w": "300",
+    "h": "300",
+    "link": "https://www.thepracticebali.com/product/hatha-yoga-moon/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/08/IG-Post-Jodie-Workshop-300x300.jpg",
+    "alt": "An Introduction to Yin Yoga",
+    "w": "300",
+    "h": "300",
+    "link": "https://www.thepracticebali.com/product/an-introduction-to-yin-yoga/"
+   }
+  ],
+  "iframes": [],
+  "forms": [
+   {
+    "action": "https://www.thepracticebali.com/product/introduction-to-kriya-meditation/",
+    "fields": [
+     {
+      "tag": "input",
+      "type": "number",
+      "name": "quantity",
+      "placeholder": "",
+      "required": false
+     }
+    ]
+   }
+  ],
+  "links": [
+   [
+    "https://www.thepracticebali.com",
+    "Home",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product-category/uncategorized/",
+    "Uncategorized",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/wp-content/uploads/2026/09/IG-Square-Octa-Workshop.jpg",
+    "",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product-category/uncategorized/",
+    "Uncategorized",
+    ""
+   ],
+   [
+    "#tab-description",
+    "\n\t\t\t\t\t\tDescription\t\t\t\t\t",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/hatha-yoga-moon/",
+    "Hatha Yoga Moon\n\tRp300.000\n",
+    ""
+   ],
+   [
+    "/product/introduction-to-kriya-meditation/?add-to-cart=12460",
+    "Add to cart",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/an-introduction-to-yin-yoga/",
+    "An Introduction to Yin Yoga\n\tRp500.000\n",
+    ""
+   ],
+   [
+    "/product/introduction-to-kriya-meditation/?add-to-cart=12595",
+    "Add to cart",
+    ""
+   ]
+  ]
+ },
+ "sankalpa-shakti-the-power-within-you": {
+  "meta": {
+   "title": "Sankalpa Shakti – The power within you – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/sankalpa-shakti-the-power-within-you/",
+   "jsonld": 0
+  },
+  "words": 1548,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/04/Sankalpa-Shakt.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/04/Sankalpa-Shakt.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/amis-articles/",
+    "Ami's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/sankalpa-shakti-the-power-within-you/",
+    "April 5, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/sankalpa-shakti-the-power-within-you/#respond",
+    "No Comments on Sankalpa Shakti – The power within you",
+    ""
+   ],
+   [
+    "http://vidyaliving.com/healing-yoga-yoga-nidra-the-art-of-slowing-down/",
+    "Yoga Nidra Meditation",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/healing-the-feminine/",
+    "\n\t\t\t\t\t←\n\t\t\t\t\tHealing The Feminine\n\t\t\t\t",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/vedic-mantra-and-kirtan-whats-the-difference/",
+    "\n\t\t\t\t\t→\n\t\t\t\t\t\tVedic mantra and Kirtan what’s the difference?\n\t\t\t\t",
+    ""
+   ]
+  ]
+ },
+ "senior-teachers": {
+  "meta": {
+   "title": "Senior Teachers – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/senior-teachers/",
+   "jsonld": 0
+  },
+  "words": 2073,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/05/online-trainng-2022.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/06/maria.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/06/nora-jacob.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/06/Joey.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/06/Martina-Wegscheider.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/06/Martyna.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/06/amy-bassett.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/06/sara-levi.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/06/Jane.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.facebook.com/melonsylt",
+    "Facebook",
+    ""
+   ],
+   [
+    "https://www.instagram.com/holistiskan/",
+    "Instagram",
+    ""
+   ],
+   [
+    "http://www.holistiskan.se/",
+    "Website",
+    ""
+   ],
+   [
+    "https://www.the-studio.yoga/",
+    "The Studio",
+    ""
+   ],
+   [
+    "https://www.jaya-yoga.de/",
+    "Jaya Yoga",
+    ""
+   ],
+   [
+    "https://www.raise-yoga.com/",
+    "RAISE Body & Mind",
+    ""
+   ],
+   [
+    "https://www.facebook.com/nora.jacob.5",
+    "Facebook",
+    ""
+   ],
+   [
+    "https://www.instagram.com/noralovesyoga/",
+    "Instagram",
+    ""
+   ],
+   [
+    "https://coachingandyoga.com/",
+    "Website",
+    ""
+   ],
+   [
+    "https://updogyoga.com.au/",
+    "UpDown Yoga",
+    ""
+   ],
+   [
+    "https://www.facebook.com/jk.clifford",
+    "Facebook",
+    ""
+   ],
+   [
+    "https://www.instagram.com/the_yoga_lad_/",
+    "Instagram",
+    ""
+   ],
+   [
+    "https://boavidarote.com/",
+    "Boa Vida",
+    ""
+   ],
+   [
+    "https://www.facebook.com/martina.wegscheider.35",
+    "Facebook",
+    ""
+   ],
+   [
+    "https://www.instagram.com/theunicornphysio/",
+    "Instagram",
+    ""
+   ],
+   [
+    "https://boavidarote.com/",
+    "Website",
+    ""
+   ],
+   [
+    "email: tina.wegscheider@gmx.at",
+    "Email",
+    ""
+   ],
+   [
+    "https://nihi.com/",
+    "Nihi Sumba",
+    ""
+   ],
+   [
+    "https://www.facebook.com/martynateterayoga/",
+    "Facebook",
+    ""
+   ],
+   [
+    "https://www.instagram.com/martynatetera/",
+    "Instagram",
+    ""
+   ],
+   [
+    "https://martynatetera.com/",
+    "Website",
+    ""
+   ],
+   [
+    "https://www.jaiyoga.com.au/",
+    "Jai Yoga",
+    ""
+   ],
+   [
+    "https://www.facebook.com/kohayoganz",
+    "Facebook",
+    ""
+   ],
+   [
+    "https://www.instagram.com/hella_amy_bassett/",
+    "Instagram",
+    ""
+   ],
+   [
+    "http://yogatraining.nz/tantrichatha/",
+    "Website",
+    ""
+   ],
+   [
+    "https://www.storabornoyoga.org/",
+    "Stora Borno Yoga",
+    ""
+   ],
+   [
+    "https://www.facebook.com/sara.levi82",
+    "Facebook",
+    ""
+   ],
+   [
+    "https://www.instagram.com/sarablevi/",
+    "Instagram",
+    ""
+   ],
+   [
+    "http://www.thegingerbowl.com/",
+    "Website",
+    ""
+   ],
+   [
+    "http://www.slowtheworld.com",
+    "www.slowtheworld.com",
+    ""
+   ],
+   [
+    "http://www.thegingerbowl.com",
+    "www.thegingerbowl.com",
+    ""
+   ],
+   [
+    "https://www.storabornoyoga.org/",
+    "https://www.storabornoyoga.org/",
+    ""
+   ],
+   [
+    "https://www.jaiyoga.com.au/",
+    "Jai Yoga",
+    ""
+   ]
+  ]
+ },
+ "shop": {
+  "meta": {
+   "title": "Shop – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": null,
+   "jsonld": 1
+  },
+  "words": 52,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/08/IG-Post-Jodie-Workshop-300x300.jpg",
+    "alt": "An Introduction to Yin Yoga",
+    "w": "300",
+    "h": "300",
+    "link": "https://www.thepracticebali.com/product/an-introduction-to-yin-yoga/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/07/IG-Post-Lala-300x300.jpg",
+    "alt": "Hatha Yoga Moon",
+    "w": "300",
+    "h": "300",
+    "link": "https://www.thepracticebali.com/product/hatha-yoga-moon/"
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/IG-Square-Octa-Workshop-300x300.jpg",
+    "alt": "Introduction to Kriya Meditation",
+    "w": "300",
+    "h": "300",
+    "link": "https://www.thepracticebali.com/product/introduction-to-kriya-meditation/"
+   }
+  ],
+  "iframes": [],
+  "forms": [
+   {
+    "action": null,
+    "fields": [
+     {
+      "tag": "select",
+      "type": null,
+      "name": "orderby",
+      "placeholder": null,
+      "required": false
+     }
+    ]
+   }
+  ],
+  "links": [
+   [
+    "https://www.thepracticebali.com",
+    "Home",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/an-introduction-to-yin-yoga/",
+    "An Introduction to Yin Yoga\n\tRp500.000\n",
+    ""
+   ],
+   [
+    "/shop/?add-to-cart=12595",
+    "Add to cart",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/hatha-yoga-moon/",
+    "Hatha Yoga Moon\n\tRp300.000\n",
+    ""
+   ],
+   [
+    "/shop/?add-to-cart=12460",
+    "Add to cart",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/product/introduction-to-kriya-meditation/",
+    "Introduction to Kriya Meditation\n\tRp3.500.000\n",
+    ""
+   ],
+   [
+    "/shop/?add-to-cart=12730",
+    "Add to cart",
+    ""
+   ]
+  ]
+ },
+ "tantra-is-not-about-sex-dont-get-distracted": {
+  "meta": {
+   "title": "Tantra is Not About Sex. Don’t Get Distracted. – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/tantra-is-not-about-sex-dont-get-distracted/",
+   "jsonld": 0
+  },
+  "words": 758,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/07/Tantra-is-Not-About-Sex.-Dont-Get-Distracted.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/07/Tantra-is-Not-About-Sex.-Dont-Get-Distracted.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/octavios-articles/",
+    "Octavio's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/tantra-is-not-about-sex-dont-get-distracted/",
+    "July 4, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/tantra-is-not-about-sex-dont-get-distracted/#respond",
+    "No Comments on Tantra is Not About Sex. Don’t Get Distracted.",
+    ""
+   ],
+   [
+    "https://moonsunfire.com/",
+    "Moon Sun Fire ",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/anandamayi-ma-the-bliss-permeated-mother/",
+    "\n\t\t\t\t\t←\n\t\t\t\t\tAnandamayi Ma – The Bliss Permeated Mother\n\t\t\t\t",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/breathe/",
+    "\n\t\t\t\t\t→\n\t\t\t\t\t\tBreathe\n\t\t\t\t",
+    ""
+   ]
+  ]
+ },
+ "terms-conditions": {
+  "meta": {
+   "title": "Terms & Conditions – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/terms-conditions/",
+   "jsonld": 0
+  },
+  "words": 1374,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/11/ami-banner.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/faqs/",
+    "FAQs",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/give-back-to-the-practice/",
+    "Give Back To The Practice",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/test/",
+    "Test",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/tpo-pro-2/",
+    "TPO pro",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/books-by-octavio/",
+    "Books by Octavio",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/womens-yoga-and-wellness-retreat/terms-conditions/",
+    "Terms & Conditions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/womens-yoga-and-wellness-retreat/",
+    "Women’s Yoga and Wellness Retreat",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/terms-conditions/",
+    "Terms & Conditions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/workshops/terms-conditions-2/",
+    "Terms & Conditions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/german-subscriber/",
+    "German Subscriber",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/terms-conditions/",
+    "Terms & Conditions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/affiliate-program/",
+    "Affiliate",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/yoga-teacher-training/",
+    "Yoga Teacher Trainings",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/home-sliders/",
+    "Home Sliders",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/privacy-policy/",
+    "Privacy Policy",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/checkout/",
+    "Checkout",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/cart/",
+    "Cart",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/shop/",
+    "Shop",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/online-trainings/",
+    "Online Trainings",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/schedule/",
+    "Schedule",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/senior-teachers/",
+    "Senior Teachers",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/our-team/",
+    "Our Team",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/contact/",
+    "Contact",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/",
+    "Welcome to The Practice",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/workshops/",
+    "Workshops",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/class-descriptions/",
+    "Descriptions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/privates/",
+    "Privates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/rates/",
+    "Rates",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/practice-with-us/faq/",
+    "FAQs",
+    ""
+   ],
+   [
+    "mailto:training@thepracticebali.com",
+    "training@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:training@thepracticebali.com",
+    "training@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:accounts@thepracticebali.com",
+    "accounts@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ]
+  ]
+ },
+ "test": {
+  "meta": {
+   "title": "Test – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/test/",
+   "jsonld": 0
+  },
+  "words": 198,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2025/02/200hr-new-1024x1024.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2025/02/yin-square-1024x1024.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2025/01/300hr-square-2026jpg-1024x1024.jpg",
+    "alt": "",
+    "w": "1024",
+    "h": "1024",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://thepracticeonline.mykajabi.com/200hr-ytt",
+    "CLICK HERE TO LEARN MORE",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/50hr-yin-training",
+    "CLICK HERE TO LEARN MORE",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/bali-300hr-advanced-tantric-hatha-yoga-meditation-2026",
+    "click here for more info",
+    ""
+   ]
+  ]
+ },
+ "the-hanuman-chalisa": {
+  "meta": {
+   "title": "The Hanumān Chālīsa – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/the-hanuman-chalisa/",
+   "jsonld": 0
+  },
+  "words": 670,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/12/hanuman.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2020/12/hanuman.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/ellens-articles/",
+    "Ellen's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-hanuman-chalisa/",
+    "December 18, 2020",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-hanuman-chalisa/#respond",
+    "No Comments on The Hanumān Chālīsa",
+    ""
+   ],
+   [
+    "http://www.ninaraochant.com/hanumanchalisa",
+    "here",
+    "_blank"
+   ],
+   [
+    "https://www.thepracticebali.com/journaling/",
+    "\n\t\t\t\t\t←\n\t\t\t\t\tJournaling\n\t\t\t\t",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-howler/",
+    "\n\t\t\t\t\t→\n\t\t\t\t\t\tThe Howler\n\t\t\t\t",
+    ""
+   ]
+  ]
+ },
+ "the-howler": {
+  "meta": {
+   "title": "The Howler – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/the-howler/",
+   "jsonld": 0
+  },
+  "words": 1081,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/01/the-howler.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/octavios-articles/",
+    "Octavio's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-howler/",
+    "January 27, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-howler/#respond",
+    "No Comments on The Howler",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/the-hanuman-chalisa/",
+    "\n\t\t\t\t\t←\n\t\t\t\t\tThe Hanumān Chālīsa\n\t\t\t\t",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/healing-the-feminine/",
+    "\n\t\t\t\t\t→\n\t\t\t\t\t\tHealing The Feminine\n\t\t\t\t",
+    ""
+   ]
+  ]
+ },
+ "tpo-pro-2": {
+  "meta": {
+   "title": "TPO pro – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/tpo-pro-2/",
+   "jsonld": 0
+  },
+  "words": 136,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/11/internatonal-workshops-banner.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   }
+  ],
+  "iframes": [
+   "https://www.youtube.com/embed/z67NROET_fc?feature=oembed&rel=0&controls=1&showinfo=0&modestbranding=1&enablejsapi=1&"
+  ],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ]
+  ]
+ },
+ "vedic-mantra-and-kirtan-whats-the-difference": {
+  "meta": {
+   "title": "Vedic mantra and Kirtan what’s the difference? – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/vedic-mantra-and-kirtan-whats-the-difference/",
+   "jsonld": 0
+  },
+  "words": 844,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2021/04/Vedic-mantra-and-Kirtan.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/ellens-articles/",
+    "Ellen's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/vedic-mantra-and-kirtan-whats-the-difference/",
+    "April 26, 2021",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/vedic-mantra-and-kirtan-whats-the-difference/#respond",
+    "No Comments on Vedic mantra and Kirtan what’s the difference?",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/sankalpa-shakti-the-power-within-you/",
+    "\n\t\t\t\t\t←\n\t\t\t\t\tSankalpa Shakti – The power within you\n\t\t\t\t",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/anandamayi-ma-the-bliss-permeated-mother/",
+    "\n\t\t\t\t\t→\n\t\t\t\t\t\tAnandamayi Ma – The Bliss Permeated Mother\n\t\t\t\t",
+    ""
+   ]
+  ]
+ },
+ "why-is-it-better-to-hold-asana-poses-instead-of-constantly-moving-through-them-in-a-yoga-class": {
+  "meta": {
+   "title": "Why is It Better to HOLD Asana Poses Instead of Constantly Moving Through Them in a Yoga Class? – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/why-is-it-better-to-hold-asana-poses-instead-of-constantly-moving-through-them-in-a-yoga-class/",
+   "jsonld": 0
+  },
+  "words": 432,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2023/09/jason.jpg",
+    "alt": "",
+    "w": "748",
+    "h": "500",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/category/jasons-articles/",
+    "Jason's Articles",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/author/0a5a4awtdiz1cclktgiby0m07hy2/",
+    "tp_admin",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/why-is-it-better-to-hold-asana-poses-instead-of-constantly-moving-through-them-in-a-yoga-class/",
+    "September 21, 2023",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/why-is-it-better-to-hold-asana-poses-instead-of-constantly-moving-through-them-in-a-yoga-class/#respond",
+    "No Comments on Why is It Better to HOLD Asana Poses Instead of Constantly Moving Through Them in a Yoga Class?",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/breathe/",
+    "\n\t\t\t\t\t←\n\t\t\t\t\tBreathe\n\t\t\t\t",
+    ""
+   ]
+  ]
+ },
+ "womens-yoga-and-wellness-retreat": {
+  "meta": {
+   "title": "Women’s Yoga and Wellness Retreat – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/womens-yoga-and-wellness-retreat/",
+   "jsonld": 0
+  },
+  "words": 1432,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/11/retreat-bali.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/11/emma-salvado.png",
+    "alt": "",
+    "w": "1000",
+    "h": "507",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/11/oasis.png",
+    "alt": "",
+    "w": "1000",
+    "h": "506",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/11/bungalow-250x300.jpg",
+    "alt": "",
+    "w": "250",
+    "h": "300",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/11/king-250x300.jpg",
+    "alt": "",
+    "w": "250",
+    "h": "300",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/11/shared-250x300.jpg",
+    "alt": "",
+    "w": "250",
+    "h": "300",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/11/quad-250x300.jpg",
+    "alt": "",
+    "w": "250",
+    "h": "300",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/11/oasis-facilities.png",
+    "alt": "",
+    "w": "1000",
+    "h": "369",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/02/svastha.jpg",
+    "alt": "",
+    "w": "1000",
+    "h": "507",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [
+   {
+    "action": "/womens-yoga-and-wellness-retreat/#wpcf7-f7598-p7594-o1",
+    "fields": [
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "your-name",
+      "placeholder": null,
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "email",
+      "name": "your-email",
+      "placeholder": null,
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "number",
+      "name": "number-of-people",
+      "placeholder": null,
+      "required": true
+     },
+     {
+      "tag": "input",
+      "type": "text",
+      "name": "preferred-room-type",
+      "placeholder": null,
+      "required": false
+     },
+     {
+      "tag": "input",
+      "type": "submit",
+      "name": null,
+      "placeholder": null,
+      "required": false
+     }
+    ]
+   }
+  ],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/womens-yoga-and-wellness-retreat/terms-conditions/",
+    "Terms & Conditions",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/womens-yoga-and-wellness-retreat/terms-conditions/",
+    "Terms & Conditions",
+    ""
+   ]
+  ]
+ },
+ "womens-yoga-and-wellness-retreat__terms-conditions": {
+  "meta": {
+   "title": "Terms & Conditions – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/womens-yoga-and-wellness-retreat/terms-conditions/",
+   "jsonld": 0
+  },
+  "words": 1335,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2022/11/retreat-bali.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://www.thepracticebali.com/womens-yoga-and-wellness-retreat/terms-conditions/",
+    "Terms & Conditions",
+    ""
+   ],
+   [
+    "mailto:training@thepracticebali.com",
+    "training@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:training@thepracticebali.com",
+    "training@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:accounts@thepracticebali.com",
+    "accounts@thepracticebali.com",
+    ""
+   ],
+   [
+    "mailto:admin@thepracticebali.com",
+    "admin@thepracticebali.com",
+    ""
+   ]
+  ]
+ },
+ "yoga-teacher-training": {
+  "meta": {
+   "title": "Yoga Teacher Trainings – The Practice",
+   "description": null,
+   "robots": null,
+   "og:title": null,
+   "og:description": null,
+   "og:image": null,
+   "og:type": null,
+   "article:published_time": null,
+   "article:modified_time": null,
+   "canonical": "https://www.thepracticebali.com/yoga-teacher-training/",
+   "jsonld": 0
+  },
+  "words": 314,
+  "images": [
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2024/01/ytt2024.jpg",
+    "alt": "",
+    "w": null,
+    "h": null,
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/IG-Square-Octa-Workshop-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/06/new-200hr-OE27-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/08/IG-Post-Meditation-TT-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/IG-Post-ONLINE-Meditation-TT-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/10/300hr-12months-IG-Post-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   },
+   {
+    "src": "https://www.thepracticebali.com/wp-content/uploads/2026/09/300hr-Bali-IG-Post-819x1024.jpg",
+    "alt": "",
+    "w": "819",
+    "h": "1024",
+    "link": null
+   }
+  ],
+  "iframes": [],
+  "forms": [],
+  "links": [
+   [
+    "https://www.thepracticebali.com/",
+    "Back To Homepage",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/kriya-meditation",
+    "CLICK HERE TO LEARN MORE",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/200hr-traditional-hatha-teacher-training-2027",
+    "CLICK HERE TO LEARN MORE",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/100hr-meditation-teacher-training",
+    "CLICK HERE TO LEARN MORE",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/100hr-online-meditation-teacher-training-",
+    "CLICK HERE TO LEARN MORE",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/Sadhana-Development-Program-and-Online-Advanced-300Hr",
+    "CLICK HERE TO LEARN MORE",
+    ""
+   ],
+   [
+    "https://thepracticeonline.mykajabi.com/bali-300hr-advanced-tantric-hatha-yoga-meditation-2027",
+    "CLICK HERE TO LEARN MORE",
+    ""
+   ]
+  ]
+ }
+}

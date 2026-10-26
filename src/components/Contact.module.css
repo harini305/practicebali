@@ -1,0 +1,196 @@
+.panel {
+  display: grid;
+  grid-template-rows: minmax(8svh, 1fr) auto;
+  background: var(--sand);
+}
+
+.address {
+  font-family: var(--font-head);
+  font-size: clamp(1.375rem, 1.1rem + 1vw, 2rem);
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.directions {
+  margin-block: 0.4rem 1.25rem;
+  color: var(--ink-soft);
+}
+
+.emails {
+  display: grid;
+  gap: 0 var(--gap);
+  margin-top: clamp(1rem, 3vh, 2rem);
+  list-style: none;
+  border-top: 1px solid rgba(29, 24, 20, 0.3);
+}
+
+.emails li {
+  display: flex;
+  flex-direction: column;
+  padding-block: clamp(0.4rem, 1.4vh, 0.75rem);
+  border-bottom: 1px solid rgba(29, 24, 20, 0.3);
+}
+
+.purpose {
+  font-size: var(--fs-meta);
+}
+
+.emails a {
+  font-size: var(--fs-small);
+  font-weight: 700;
+  overflow-wrap: anywhere;
+}
+
+/* Outline buttons on sand keep AA contrast */
+.panel :global(.btn--outline) {
+  border-color: var(--ink);
+  color: var(--ink);
+}
+
+.panel :global(.btn--outline:hover) {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+@media (min-width: 900px) {
+  .panel {
+    grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    grid-template-rows: none;
+  }
+}
+
+@media (min-width: 640px) {
+  .emails {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    border-top: 0;
+  }
+
+  .emails li:nth-child(-n + 2) {
+    border-top: 1px solid rgba(29, 24, 20, 0.3);
+  }
+}
+
+@media (max-width: 899px) {
+  .directions {
+    margin-block: 0.3rem 0.9rem;
+    font-size: var(--fs-small);
+  }
+
+  .emails li {
+    padding-block: 0.35rem;
+  }
+}
+
+@media (max-width: 759px) and (max-height: 780px) {
+  .panel {
+    grid-template-rows: 0 auto;
+  }
+
+  .media {
+    display: none;
+  }
+}
+
+.panel[id] {
+  min-height: calc(var(--avail) - var(--footer-h, 9rem));
+}
+
+/* Phones: details only, so contact + footer share one screen */
+@media (max-width: 759px) {
+  .panel {
+    grid-template-rows: auto;
+  }
+
+  .media {
+    display: none;
+  }
+
+  .emails {
+    margin-top: 0.9rem;
+  }
+
+  .emails li {
+    padding-block: 0.3rem;
+  }
+
+  .emails a {
+    font-size: var(--fs-meta);
+  }
+}
+
+.mapLink {
+  display: none;
+}
+
+@media (max-width: 759px) {
+  .mapBtn {
+    display: none;
+  }
+
+  .mapLink {
+    display: inline;
+    color: var(--ink);
+  }
+}
+
+@media (max-width: 759px) and (max-height: 780px) {
+  .directions {
+    font-size: var(--fs-meta);
+  }
+
+  .address {
+    font-size: 1.25rem;
+  }
+}
+
+@media (max-width: 759px) and (max-height: 780px) {
+  .emails {
+    margin-top: 0.6rem;
+  }
+
+  .emails li {
+    padding-block: 0.15rem;
+  }
+
+  .purpose {
+    font-size: 0.75rem;
+  }
+
+  .directions {
+    margin-block: 0.2rem 0.6rem;
+  }
+}
+
+.media img {
+  object-position: 50% 30%;
+}
+
+/* Wide screens: equal halves so both people in the photo stay in frame */
+@media (min-width: 1280px) {
+  .panel {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+}
+
+/* Short laptop screens: tighter rows so contact + footer share one screen */
+@media (min-width: 900px) and (max-height: 820px) {
+  .directions {
+    margin-block: 0.25rem 0.9rem;
+  }
+
+  .emails {
+    margin-top: 0.9rem;
+  }
+
+  .emails li {
+    padding-block: 0.3rem;
+  }
+}
+
+/* Narrower photo column: shift focus so both faces stay in frame */
+@media (min-width: 900px) and (max-width: 1279px) {
+  .media img {
+    object-position: 36% 30%;
+  }
+}

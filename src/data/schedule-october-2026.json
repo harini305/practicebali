@@ -1,0 +1,772 @@
+[
+ {
+  "date": "2026-10-01",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-01",
+  "title": "930am Jianfa (75min) – Ming",
+  "time": "9:30 am - 10:45 am"
+ },
+ {
+  "date": "2026-10-01",
+  "title": "1130am Beginners Hatha Yoga (90min) – Ela (Max 12 People)",
+  "time": "11:30 am - 1:00 pm"
+ },
+ {
+  "date": "2026-10-01",
+  "title": "3pm Hatha Yoga Moon (Level 1, 90min) – Ela (Max 12 People)",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-02",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-02",
+  "title": "10am Hatha Yoga Moon (Level 1, 90 Min) – Jodie (Max 12 People)",
+  "time": "10:00 am - 11:30 am"
+ },
+ {
+  "date": "2026-10-02",
+  "title": "1130am Beginners Hatha Yoga (90min) – Ela (Max 12 People)",
+  "time": "11:30 am - 1:00 pm"
+ },
+ {
+  "date": "2026-10-02",
+  "title": "3pm Yin Yoga ( Level 1, 90min) – Jodie (Max 12 People)",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-03",
+  "title": "830am Hatha Yoga Sun (Level 1, 75min) – Ela (Max 12 People)",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-03",
+  "title": "10am Beginners Hatha Yoga (75 Min) – Lala (Max 12 People)",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-03",
+  "title": "1130am Hatha Yoga Moon (Level 1, 75min) – Lala (Max 12 People)",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-03",
+  "title": "3pm Yin Yoga (Level 1, 90min) – Jodie (Max 12 People)",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-04",
+  "title": "830am Hatha Yoga Moon (Level 2, 75min) – Ela",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-04",
+  "title": "10am – 3pm: Workshop: An Introduction To Yin Yoga – Jodie",
+  "time": "10:00 am - 3:00 pm"
+ },
+ {
+  "date": "2026-10-04",
+  "title": "10am Beginners Hatha Yoga (75 Min) – Lala",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-04",
+  "title": "1130am Yin Yoga (2hr, Level 1) (200K) – Lala",
+  "time": "11:30 am - 1:30 pm"
+ },
+ {
+  "date": "2026-10-04",
+  "title": "3pm Hatha Moon (Level 1, 90min) – Ela",
+  "time": "3:00 pm - 4:15 pm"
+ },
+ {
+  "date": "2026-10-05",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-05",
+  "title": "830am Hatha Yoga Sun (Level 1, 75min) – Jodie",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-05",
+  "title": "10am Hatha Yoga Moon (Level 2, 75 Min) – Lala",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-05",
+  "title": "1130am Beginners Hatha Yoga (75min) – Lala",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-05",
+  "title": "3pm Yin Yoga (Level 1, 90 Min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-06",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-06",
+  "title": "830am Hatha Yoga Sun (Level 1, 75min) – Lala",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-06",
+  "title": "10am FREE CLASS Yang to Yin (Level 1, 75min) – Jodie",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-06",
+  "title": "1130am 852Hz Meditation to activate the 3rd Eye (Level 1, 60min) (150k) – Octavio",
+  "time": "11:30 am - 12:30 pm"
+ },
+ {
+  "date": "2026-10-06",
+  "title": "3pm Beginners Hatha Yoga (90min) – Ela",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-06",
+  "title": "630pm Bhakti Yoga – Ellen",
+  "time": "6:30 pm - 8:00 pm"
+ },
+ {
+  "date": "2026-10-07",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-07",
+  "title": "830am Hatha Yoga Sun (Level 1, 75min) – Ela",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-07",
+  "title": "10am Hatha Yoga Moon (Level 2, 75min) – Lala",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-07",
+  "title": "1130am Beginners Hatha Yoga (75 Min) – Lala",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-07",
+  "title": "3pm Yin Yoga (Level 1, 2hr) (200K) – Jason",
+  "time": "3:00 pm - 5:00 pm"
+ },
+ {
+  "date": "2026-10-07",
+  "title": "430pm Raja Yoga Meditation (Level 2, 60min) (150k) – Octavio",
+  "time": "4:30 pm - 5:30 pm"
+ },
+ {
+  "date": "2026-10-08",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-08",
+  "title": "830am Hatha Yoga Sun (Level 2, 75min) – Jason",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-08",
+  "title": "930am Jianfa (75min) – Ming",
+  "time": "9:30 am - 10:45 am"
+ },
+ {
+  "date": "2026-10-08",
+  "title": "10am Yang to Yin (Level 1, 75min) – Ela",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-08",
+  "title": "1130am 528Hz Meditation for DNA repair & physical healing (Level 1, 60min) (150k) – Octavio",
+  "time": "11:30 am - 12:30 pm"
+ },
+ {
+  "date": "2026-10-08",
+  "title": "3pm Hatha Yoga Moon (Level 1, 90min) – Ela",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-09",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-09",
+  "title": "830am Hatha Yoga Moon (Level 2, 75min) –Jodie",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-09",
+  "title": "10am Hatha Yoga Sun (Level 2, 75min) – Jason",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-09",
+  "title": "1130am Beginners Hatha Yoga (90min) – Jason",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-09",
+  "title": "3pm Yin Yoga ( Level 1, 90min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-10",
+  "title": "830am Hatha Yoga Sun (Level 2, 75min) – Jason",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-10",
+  "title": "10am Beginners Hatha Yoga (75min) – Jason",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-10",
+  "title": "1130am Hatha Yoga Moon (Level 1, 75min) – Lala",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-10",
+  "title": "3pm Yin Yoga (Level 1, 90min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-11",
+  "title": "830am Hatha Yoga Moon (Level 2, 75min) – Ela",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-11",
+  "title": "10am Beginners Hatha Yoga (75 Min) – Lala",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-11",
+  "title": "1130am Yin Yoga (2hr, Level 1) (200k) – Jason",
+  "time": "11:30 am - 1:30 pm"
+ },
+ {
+  "date": "2026-10-11",
+  "title": "3pm Hatha Yoga Moon (Level 1, 90 Min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-12",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-12",
+  "title": "830am Hatha Yoga Sun (Level 1, 75min) – Jodie",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-12",
+  "title": "10am Hatha Yoga Moon (Level 2, 75 Min) – Lala",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-12",
+  "title": "1130am Beginners Hatha Yoga (75min) – Lala",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-12",
+  "title": "3pm Yin Yoga (Level 1, 90 Min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-13",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-13",
+  "title": "830am Hatha Yoga Sun (Level 1, 75min) – Lala",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-13",
+  "title": "10am Yang to Yin (Level 1, 75min) – Jodie",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-13",
+  "title": "1130am 852Hz Meditation to activate the 3rd Eye (Level 1, 60min) (150k) – Octavio",
+  "time": "11:30 am - 12:30 pm"
+ },
+ {
+  "date": "2026-10-13",
+  "title": "3pm Beginners Hatha Yoga (90min) – Ela",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-14",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-14",
+  "title": "830am Hatha Yoga Sun (Level 1, 75min) – Ela",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-14",
+  "title": "10am Hatha Yoga Moon (Level 2, 75min) – Lala",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-14",
+  "title": "1130am Beginners Hatha Yoga (75 Min) – Lala",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-14",
+  "title": "3pm Yin Yoga (Level 1, 2hr) (200K) – Jason",
+  "time": "3:00 pm - 5:00 pm"
+ },
+ {
+  "date": "2026-10-14",
+  "title": "430pm Raja Yoga Meditation (Level 2, 60min) (150k) – Octavio",
+  "time": "4:30 pm - 5:30 pm"
+ },
+ {
+  "date": "2026-10-15",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-15",
+  "title": "830am Hatha Yoga Sun (Level 2, 75min) – Jason",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-15",
+  "title": "930am Jianfa (75min) – Ming",
+  "time": "9:30 am - 10:45 am"
+ },
+ {
+  "date": "2026-10-15",
+  "title": "10am Yang to Yin (Level 1, 75min) – Ela",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-15",
+  "title": "1130am 528Hz Meditation for DNA repair & physical healing (Level 1, 60min) (150k) – Octavio",
+  "time": "11:30 am - 12:30 pm"
+ },
+ {
+  "date": "2026-10-15",
+  "title": "3pm Hatha Yoga Moon (Level 1, 90min) – Ela",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-16",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-16",
+  "title": "830am Hatha Yoga Moon (Level 2, 75min) –Jodie",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-16",
+  "title": "10am Hatha Yoga Sun (Level 2, 75min) – Jason",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-16",
+  "title": "1130am Beginners Hatha Yoga (90min) – Jason",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-16",
+  "title": "3pm Yin Yoga ( Level 1, 90min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-17",
+  "title": "830am Hatha Yoga Sun (Level 2, 75min) – Jason",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-17",
+  "title": "10am Beginners Hatha Yoga (75min) – Jason",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-17",
+  "title": "1130am Hatha Yoga Moon (Level 1, 75min) – Lala",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-17",
+  "title": "3pm Yin Yoga (Level 1, 90min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-18",
+  "title": "830am Hatha Yoga Moon (Level 2, 75min) – Ela",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-18",
+  "title": "10am Beginners Hatha Yoga (75 Min) – Lala",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-18",
+  "title": "1130am Yin Yoga (2hr, Level 1) (200k) – Jason",
+  "time": "11:30 am - 1:30 pm"
+ },
+ {
+  "date": "2026-10-18",
+  "title": "3pm Hatha Yoga Moon (Level 1, 90 Min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-19",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-19",
+  "title": "830am Hatha Yoga Sun (Level 1, 75min) – Jodie",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-19",
+  "title": "10am Hatha Yoga Moon (Level 2, 75 Min) – Lala",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-19",
+  "title": "1130am Beginners Hatha Yoga (75min) – Lala",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-19",
+  "title": "3pm Yin Yoga (Level 1, 90 Min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-20",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-20",
+  "title": "830am Hatha Yoga Sun (Level 1, 75min) – Lala",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-20",
+  "title": "10am Yang to Yin (Level 1, 75min) – Jodie",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-20",
+  "title": "1130am 852Hz Meditation to activate the 3rd Eye (Level 1, 60min) (150k) – Octavio",
+  "time": "11:30 am - 12:30 pm"
+ },
+ {
+  "date": "2026-10-20",
+  "title": "3pm Beginners Hatha Yoga (90min) – Ela",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-20",
+  "title": "630pm Bhakti Yoga – Ellen",
+  "time": "6:30 pm - 8:00 pm"
+ },
+ {
+  "date": "2026-10-21",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-21",
+  "title": "830am Hatha Yoga Sun (Level 1, 75min) – Ela",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-21",
+  "title": "10am Hatha Yoga Moon (Level 2, 75min) – Lala",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-21",
+  "title": "1130am Beginners Hatha Yoga (75 Min) – Lala",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-21",
+  "title": "3pm Yin Yoga (Level 1, 2hr) (200K) – Jason",
+  "time": "3:00 pm - 5:00 pm"
+ },
+ {
+  "date": "2026-10-21",
+  "title": "430pm Raja Yoga Meditation (Level 2, 60min) (150k) – Octavio",
+  "time": "4:30 pm - 5:30 pm"
+ },
+ {
+  "date": "2026-10-22",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-22",
+  "title": "830am Hatha Yoga Sun (Level 2, 75min) – Jason",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-22",
+  "title": "930am Jianfa (75min) – Ming",
+  "time": "9:30 am - 10:45 am"
+ },
+ {
+  "date": "2026-10-22",
+  "title": "10am Yang to Yin (Level 1, 75min) – Ela",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-22",
+  "title": "1130am 528Hz Meditation for DNA repair & physical healing (Level 1, 60min) (150k) – Octavio",
+  "time": "11:30 am - 12:30 pm"
+ },
+ {
+  "date": "2026-10-22",
+  "title": "3pm Hatha Yoga Moon (Level 1, 90min) – Ela",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-23",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-23",
+  "title": "830am Hatha Yoga Moon (Level 2, 75min) –Jodie",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-23",
+  "title": "10am Hatha Yoga Sun (Level 2, 75min) – Jason",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-23",
+  "title": "1130am Beginners Hatha Yoga (90min) – Jason",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-23",
+  "title": "3pm Yin Yoga ( Level 1, 90min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-24",
+  "title": "830am Hatha Yoga Sun (Level 2, 75min) – Jason",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-24",
+  "title": "10am Beginners Hatha Yoga (75min) – Jason",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-24",
+  "title": "1130am Hatha Yoga Moon (Level 1, 75min) – Lala",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-24",
+  "title": "3pm Yin Yoga (Level 1, 90min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-25",
+  "title": "830am Hatha Yoga Moon (Level 2, 75min) – Ela",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-25",
+  "title": "10am Beginners Hatha Yoga (75 Min) – Lala",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-25",
+  "title": "1130am Yin Yoga (2hr, Level 1) (200k) – Jason",
+  "time": "11:30 am - 1:30 pm"
+ },
+ {
+  "date": "2026-10-25",
+  "title": "3pm Hatha Yoga Moon (Level 1, 90 Min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-26",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-26",
+  "title": "830am Hatha Yoga Sun (Level 1, 75min) – Jodie",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-26",
+  "title": "10am Hatha Yoga Moon (Level 2, 75 Min) – Lala",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-26",
+  "title": "1130am Beginners Hatha Yoga (75min) – Lala",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-26",
+  "title": "3pm Yin Yoga (Level 1, 90 Min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-27",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-27",
+  "title": "830am Hatha Yoga Sun (Level 1, 75min) – Lala",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-27",
+  "title": "10am Yang to Yin (Level 1, 75min) – Jodie",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-27",
+  "title": "1130am 852Hz Meditation to activate the 3rd Eye (Level 1, 60min) (150k) – Octavio",
+  "time": "11:30 am - 12:30 pm"
+ },
+ {
+  "date": "2026-10-27",
+  "title": "3pm Beginners Hatha Yoga (90min) – Ela",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-28",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-28",
+  "title": "830am Hatha Yoga Sun (Level 1, 75min) – Ela",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-28",
+  "title": "10am Hatha Yoga Moon (Level 2, 75min) – Lala",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-28",
+  "title": "1130am Beginners Hatha Yoga (75 Min) – Lala",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-28",
+  "title": "3pm Yin Yoga (Level 1, 2hr) (200K) – Jason",
+  "time": "3:00 pm - 5:00 pm"
+ },
+ {
+  "date": "2026-10-29",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-29",
+  "title": "830am Hatha Yoga Sun (Level 2, 75min) – Jason",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-29",
+  "title": "10am Yang to Yin (Level 1, 75min) – Ela",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-29",
+  "title": "1130am 528Hz Meditation for DNA repair & physical healing (Level 1, 60min) (150k) – Octavio",
+  "time": "11:30 am - 12:30 pm"
+ },
+ {
+  "date": "2026-10-29",
+  "title": "3pm Hatha Yoga Moon (Level 1, 90min) – Ela",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-30",
+  "title": "8am Qi Gong (75min) – Ming",
+  "time": "8:00 am - 9:15 am"
+ },
+ {
+  "date": "2026-10-30",
+  "title": "830am Hatha Yoga Moon (Level 2, 75min) –Jodie",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-30",
+  "title": "10am Hatha Yoga Sun (Level 2, 75min) – Jason",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-30",
+  "title": "1130am Beginners Hatha Yoga (90min) – Jason",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-30",
+  "title": "3pm Yin Yoga ( Level 1, 90min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ },
+ {
+  "date": "2026-10-31",
+  "title": "830am – 7pm 2-Day Workshop: Introduction to Kriya Meditation – Octavio",
+  "time": "8:30 am - 12:00 am"
+ },
+ {
+  "date": "2026-10-31",
+  "title": "830am Hatha Yoga Sun (Level 2, 75min) – Jason",
+  "time": "8:30 am - 9:45 am"
+ },
+ {
+  "date": "2026-10-31",
+  "title": "10am Beginners Hatha Yoga (75min) – Jason",
+  "time": "10:00 am - 11:15 am"
+ },
+ {
+  "date": "2026-10-31",
+  "title": "1130am Hatha Yoga Moon (Level 1, 75min) – Lala",
+  "time": "11:30 am - 12:45 pm"
+ },
+ {
+  "date": "2026-10-31",
+  "title": "3pm Yin Yoga (Level 1, 90min) – Jodie",
+  "time": "3:00 pm - 4:30 pm"
+ }
+]

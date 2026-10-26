@@ -1,0 +1,194 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--paper);
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.raised {
+  border-bottom-color: var(--line);
+  box-shadow: 0 6px 18px -14px rgba(29, 24, 20, 0.45);
+}
+
+.bar {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  height: var(--header-h);
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex: none;
+  text-decoration: none;
+}
+
+.logo {
+  width: 2.6rem;
+  height: auto;
+}
+
+.wordmark {
+  font-family: var(--font-head);
+  font-size: 1.375rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.01em;
+}
+
+.desktopNav {
+  display: none;
+  margin-inline: auto;
+}
+
+.desktopNav ul {
+  display: flex;
+  gap: clamp(1rem, 0.2rem + 1.2vw, 1.75rem);
+  list-style: none;
+}
+
+.desktopNav a {
+  display: inline-block;
+  padding-block: 0.5rem;
+  font-size: var(--fs-small);
+  font-weight: 600;
+  text-decoration: none;
+  background: linear-gradient(currentColor, currentColor) 0 100% / 0 1px no-repeat;
+  transition: background-size 0.25s ease;
+}
+
+.desktopNav a:hover {
+  background-size: 100% 1px;
+}
+
+.end {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-left: auto;
+}
+
+.cta {
+  display: none;
+}
+
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  min-height: 2.75rem;
+  padding: 0.5rem 0.9rem;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  background: transparent;
+  font-size: var(--fs-small);
+  font-weight: 700;
+}
+
+.toggleIcon {
+  position: relative;
+  width: 1.1rem;
+  height: 2px;
+  background: currentColor;
+}
+
+.toggleIcon::before,
+.toggleIcon::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: currentColor;
+  transition: transform 0.2s ease;
+}
+
+.toggleIcon::before {
+  top: -6px;
+}
+
+.toggleIcon::after {
+  top: 6px;
+}
+
+.toggle[aria-expanded='true'] .toggleIcon {
+  background: transparent;
+}
+
+.toggle[aria-expanded='true'] .toggleIcon::before {
+  transform: translateY(6px) rotate(45deg);
+}
+
+.toggle[aria-expanded='true'] .toggleIcon::after {
+  transform: translateY(-6px) rotate(-45deg);
+}
+
+.panel {
+  border-top: 1px solid var(--line);
+  background: var(--paper);
+  padding-block: 1rem 1.5rem;
+  box-shadow: 0 18px 24px -20px rgba(29, 24, 20, 0.5);
+}
+
+.panel[hidden] {
+  display: none;
+}
+
+.panelList {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 var(--gap);
+  list-style: none;
+}
+
+.panelList a {
+  display: block;
+  padding-block: 0.8rem;
+  border-bottom: 1px solid var(--line);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.panelCta {
+  width: 100%;
+  margin-top: 1.25rem;
+}
+
+@media (min-width: 560px) {
+  .cta {
+    display: inline-flex;
+  }
+
+  .panelCta {
+    display: none;
+  }
+
+  .panelList {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 380px) {
+  .wordmark {
+    font-size: 1.2rem;
+  }
+}
+
+@media (min-width: 1180px) {
+  .desktopNav {
+    display: block;
+  }
+
+  .end {
+    margin-left: 0;
+  }
+
+  .toggle,
+  .panel {
+    display: none;
+  }
+}

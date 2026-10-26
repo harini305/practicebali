@@ -1,0 +1,227 @@
+{
+  "hero/studio": {
+    "widths": [
+      640,
+      1024,
+      1487
+    ],
+    "ratio": 2.5289
+  },
+  "team/group": {
+    "widths": [
+      640,
+      1024,
+      1487
+    ],
+    "ratio": 2.5289
+  },
+  "classes/studio": {
+    "widths": [
+      480,
+      818
+    ],
+    "ratio": 1.3912
+  },
+  "contact/founders": {
+    "widths": [
+      640,
+      981
+    ],
+    "ratio": 1.6684
+  },
+  "classes/moon": {
+    "widths": [
+      144,
+      288
+    ],
+    "ratio": 1
+  },
+  "classes/sun": {
+    "widths": [
+      144,
+      288
+    ],
+    "ratio": 1
+  },
+  "classes/fire": {
+    "widths": [
+      144,
+      288
+    ],
+    "ratio": 1
+  },
+  "classes/beginners": {
+    "widths": [
+      144,
+      288
+    ],
+    "ratio": 1
+  },
+  "classes/yin": {
+    "widths": [
+      144,
+      288
+    ],
+    "ratio": 1
+  },
+  "classes/meditation": {
+    "widths": [
+      144,
+      288
+    ],
+    "ratio": 1
+  },
+  "classes/raja": {
+    "widths": [
+      144,
+      288
+    ],
+    "ratio": 1
+  },
+  "classes/bhakti": {
+    "widths": [
+      144,
+      288
+    ],
+    "ratio": 1
+  },
+  "classes/qi-gong": {
+    "widths": [
+      144,
+      288
+    ],
+    "ratio": 1
+  },
+  "classes/jianfa": {
+    "widths": [
+      144,
+      288
+    ],
+    "ratio": 1
+  },
+  "trainings/200hr": {
+    "widths": [
+      640,
+      1080
+    ],
+    "ratio": 1.2602
+  },
+  "trainings/meditation-100hr": {
+    "widths": [
+      480,
+      800
+    ],
+    "ratio": 1.3333
+  },
+  "trainings/online-meditation-100hr": {
+    "widths": [
+      480,
+      800
+    ],
+    "ratio": 1.3333
+  },
+  "trainings/sadhana-300hr": {
+    "widths": [
+      480,
+      800
+    ],
+    "ratio": 1.3333
+  },
+  "trainings/bali-300hr": {
+    "widths": [
+      480,
+      648
+    ],
+    "ratio": 1.3333
+  },
+  "workshops/kriya": {
+    "widths": [
+      480,
+      648
+    ],
+    "ratio": 0.8
+  },
+  "privates/lala": {
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "ratio": 0.8
+  },
+  "privates/jason": {
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "ratio": 0.8
+  },
+  "privates/ming": {
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "ratio": 0.8
+  },
+  "privates/yantra": {
+    "widths": [
+      480,
+      800,
+      1080
+    ],
+    "ratio": 0.8
+  },
+  "team/octavio": {
+    "widths": [
+      350
+    ],
+    "ratio": 1
+  },
+  "team/emma": {
+    "widths": [
+      350
+    ],
+    "ratio": 1
+  },
+  "team/ming": {
+    "widths": [
+      350
+    ],
+    "ratio": 1
+  },
+  "team/jason": {
+    "widths": [
+      350
+    ],
+    "ratio": 1
+  },
+  "team/lala": {
+    "widths": [
+      350
+    ],
+    "ratio": 1
+  },
+  "team/jodie": {
+    "widths": [
+      350
+    ],
+    "ratio": 1
+  },
+  "books/books": {
+    "widths": [
+      640,
+      1024,
+      1487
+    ],
+    "ratio": 2.5289
+  },
+  "online/tpo": {
+    "widths": [
+      640,
+      1190
+    ],
+    "ratio": 2.0067
+  }
+}
